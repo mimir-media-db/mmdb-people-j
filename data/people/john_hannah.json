@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_hannah",
+  "name": "John Hannah",
+  "external_ids": {
+    "wikidata": "Q298243",
+    "imdb": "nm0001314"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1962
+}

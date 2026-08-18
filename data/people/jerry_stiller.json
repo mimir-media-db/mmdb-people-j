@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_jerry_stiller",
+  "name": "Jerry Stiller",
+  "external_ids": {
+    "wikidata": "Q316857",
+    "imdb": "nm0005467"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1927,
+  "death_year": 2020
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_standing",
+  "name": "John Standing",
+  "external_ids": {
+    "wikidata": "Q850596",
+    "imdb": "nm0822062"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1934
+}

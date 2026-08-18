@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_jim_brown",
+  "name": "Jim Brown",
+  "external_ids": {
+    "wikidata": "Q927916",
+    "imdb": "nm0000987"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1936,
+  "death_year": 2023
+}

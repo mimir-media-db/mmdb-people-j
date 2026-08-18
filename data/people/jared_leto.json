@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jared_leto",
+  "name": "Jared Leto",
+  "external_ids": {
+    "wikidata": "Q484523",
+    "imdb": "nm0001467"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1971
+}

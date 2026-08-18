@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_joe_berlinger",
+  "name": "Joe Berlinger",
+  "external_ids": {
+    "wikidata": "Q5637614",
+    "imdb": "nm0075666"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1961
+}

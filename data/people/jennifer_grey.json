@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jennifer_grey",
+  "name": "Jennifer Grey",
+  "external_ids": {
+    "wikidata": "Q232927",
+    "imdb": "nm0000426"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1960
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jason_biggs",
+  "name": "Jason Biggs",
+  "external_ids": {
+    "wikidata": "Q314421",
+    "imdb": "nm0004755"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1978
+}

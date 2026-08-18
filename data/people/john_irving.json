@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_irving",
+  "name": "John Irving",
+  "external_ids": {
+    "wikidata": "Q310379",
+    "imdb": "nm0410288"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1942
+}

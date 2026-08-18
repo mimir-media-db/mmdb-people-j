@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jeffrey_jones",
+  "name": "Jeffrey Jones",
+  "external_ids": {
+    "wikidata": "Q377662",
+    "imdb": "nm0000470"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1946
+}

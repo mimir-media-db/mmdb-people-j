@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_rutherford",
+  "name": "John Rutherford",
+  "external_ids": {
+    "wikidata": "Q1701629",
+    "imdb": "nm0751978"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1999
+}

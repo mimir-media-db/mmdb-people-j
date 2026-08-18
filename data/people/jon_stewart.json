@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jon_stewart",
+  "name": "Jon Stewart",
+  "external_ids": {
+    "wikidata": "Q211987",
+    "imdb": "nm0829537"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1962
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_john_cassavetes",
+  "name": "John Cassavetes",
+  "external_ids": {
+    "wikidata": "Q51488",
+    "imdb": "nm0001023"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1929,
+  "death_year": 1989
+}

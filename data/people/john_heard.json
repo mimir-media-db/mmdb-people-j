@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_john_heard",
+  "name": "John Heard",
+  "external_ids": {
+    "wikidata": "Q462327",
+    "imdb": "nm0001334"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1946,
+  "death_year": 2017
+}
