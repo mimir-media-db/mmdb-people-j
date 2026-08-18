@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_jack_benny",
+  "name": "Jack Benny",
+  "external_ids": {
+    "wikidata": "Q148732",
+    "imdb": "nm0000912"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1894,
+  "death_year": 1974
+}

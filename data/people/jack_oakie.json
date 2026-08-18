@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_jack_oakie",
+  "name": "Jack Oakie",
+  "external_ids": {
+    "wikidata": "Q545846",
+    "imdb": "nm0642988"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1903,
+  "death_year": 1978
+}

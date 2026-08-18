@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_n_smith",
+  "name": "John N. Smith",
+  "external_ids": {
+    "wikidata": "Q3182154",
+    "imdb": "nm0808807"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1943
+}

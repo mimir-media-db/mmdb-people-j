@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jane_curtin",
+  "name": "Jane Curtin",
+  "external_ids": {
+    "wikidata": "Q234120",
+    "imdb": "nm0004852"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1947
+}
