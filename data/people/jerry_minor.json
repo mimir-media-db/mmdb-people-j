@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jerry_minor",
+  "name": "Jerry Minor",
+  "external_ids": {
+    "wikidata": "Q6184114",
+    "imdb": "nm0591576"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1969
+}
