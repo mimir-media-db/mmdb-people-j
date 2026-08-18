@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_janet_leigh",
+  "name": "Janet Leigh",
+  "external_ids": {
+    "wikidata": "Q205314",
+    "imdb": "nm0001463"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1927,
+  "death_year": 2004
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_james_hunter",
+  "name": "James Hunter",
+  "external_ids": {
+    "wikidata": "Q106375932",
+    "imdb": "nm1448812"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1976
+}

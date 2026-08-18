@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_john_kirby",
+  "name": "John Kirby",
+  "external_ids": {
+    "wikidata": "Q106375718",
+    "imdb": "nm1901365"
+  },
+  "last_updated": "2026-08-18"
+}

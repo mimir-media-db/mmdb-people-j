@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_anderson",
+  "name": "John Anderson",
+  "external_ids": {
+    "wikidata": "Q80219829",
+    "imdb": "nm2001520"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1954
+}
