@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jesse_ventura",
+  "name": "Jesse Ventura",
+  "external_ids": {
+    "wikidata": "Q311161",
+    "imdb": "nm0001818"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1951
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_vickery",
+  "name": "John Vickery",
+  "external_ids": {
+    "wikidata": "Q3182652",
+    "imdb": "nm0896043"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1950
+}

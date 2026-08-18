@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jane_sibbett",
+  "name": "Jane Sibbett",
+  "external_ids": {
+    "wikidata": "Q268451",
+    "imdb": "nm0796235"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1962
+}

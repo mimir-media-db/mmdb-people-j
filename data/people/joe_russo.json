@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_joe_russo",
+  "name": "Joe Russo",
+  "external_ids": {
+    "wikidata": "Q20675767",
+    "imdb": "nm0751648"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1971
+}

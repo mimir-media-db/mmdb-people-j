@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_jack_gold",
+  "name": "Jack Gold",
+  "external_ids": {
+    "wikidata": "Q543700",
+    "imdb": "nm0324995"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1930,
+  "death_year": 2015
+}

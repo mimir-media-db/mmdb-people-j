@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jane_seymour",
+  "name": "Jane Seymour",
+  "external_ids": {
+    "wikidata": "Q123849",
+    "imdb": "nm0005412"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1951
+}

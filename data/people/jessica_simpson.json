@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jessica_simpson",
+  "name": "Jessica Simpson",
+  "external_ids": {
+    "wikidata": "Q168992",
+    "imdb": "nm0005433"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1980
+}

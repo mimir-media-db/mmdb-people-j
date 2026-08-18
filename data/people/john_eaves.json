@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_eaves",
+  "name": "John Eaves",
+  "external_ids": {
+    "wikidata": "Q1699916",
+    "imdb": "nm0247912"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1953
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_joe_penny",
+  "name": "Joe Penny",
+  "external_ids": {
+    "wikidata": "Q1385662",
+    "imdb": "nm0672242"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1956
+}

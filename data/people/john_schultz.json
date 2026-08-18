@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_schultz",
+  "name": "John Schultz",
+  "external_ids": {
+    "wikidata": "Q16875355",
+    "imdb": "nm0776271"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1960
+}

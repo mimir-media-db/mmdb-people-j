@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jane_mcgregor",
+  "name": "Jane McGregor",
+  "external_ids": {
+    "wikidata": "Q447929",
+    "imdb": "nm0569990"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1982
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jason_kidd",
+  "name": "Jason Kidd",
+  "external_ids": {
+    "wikidata": "Q221341",
+    "imdb": "nm1186913"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1973
+}

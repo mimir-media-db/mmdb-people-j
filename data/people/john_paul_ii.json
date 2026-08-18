@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_john_paul_ii",
+  "name": "John Paul II",
+  "external_ids": {
+    "wikidata": "Q989",
+    "imdb": "nm0937552"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1920,
+  "death_year": 2005
+}
