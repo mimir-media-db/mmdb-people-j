@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jon_hamm",
+  "name": "Jon Hamm",
+  "external_ids": {
+    "wikidata": "Q313107",
+    "imdb": "nm0358316"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1971
+}

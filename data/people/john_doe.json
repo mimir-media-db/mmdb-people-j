@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_doe",
+  "name": "John Doe",
+  "external_ids": {
+    "wikidata": "Q3181360",
+    "imdb": "nm0230335"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1954
+}

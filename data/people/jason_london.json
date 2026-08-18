@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jason_london",
+  "name": "Jason London",
+  "external_ids": {
+    "wikidata": "Q1376690",
+    "imdb": "nm0518715"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1972
+}

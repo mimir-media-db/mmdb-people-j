@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_ales",
+  "name": "John Ales",
+  "external_ids": {
+    "wikidata": "Q727024",
+    "imdb": "nm0018099"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1969
+}

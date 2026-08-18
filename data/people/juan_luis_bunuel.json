@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_juan_luis_bunuel",
+  "name": "Juan Luis Buñuel",
+  "external_ids": {
+    "wikidata": "Q1710546",
+    "imdb": "nm0125665"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1934,
+  "death_year": 2017
+}

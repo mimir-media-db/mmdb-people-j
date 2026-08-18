@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_krasinski",
+  "name": "John Krasinski",
+  "external_ids": {
+    "wikidata": "Q313039",
+    "imdb": "nm1024677"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1979
+}

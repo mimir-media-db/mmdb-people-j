@@ -1,9 +1,10 @@
 {
   "schema_version": 1,
-  "id": "p_julie_brown",
-  "name": "Julie Brown",
+  "id": "p_juan_pinzas",
+  "name": "Juan Pinzás",
   "external_ids": {
-    "wikidata": "Q524776"
+    "wikidata": "Q5952038",
+    "imdb": "nm0684762"
   },
   "last_updated": "2026-08-18",
   "birth_year": 1955

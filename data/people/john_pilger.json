@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_john_pilger",
+  "name": "John Pilger",
+  "external_ids": {
+    "wikidata": "Q471546",
+    "imdb": "nm0683400"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1939,
+  "death_year": 2023
+}

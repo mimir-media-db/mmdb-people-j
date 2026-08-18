@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jack_johnson",
+  "name": "Jack Johnson",
+  "external_ids": {
+    "wikidata": "Q297097",
+    "imdb": "nm0425273"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1975
+}

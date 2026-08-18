@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_fiore",
+  "name": "John Fiore",
+  "external_ids": {
+    "wikidata": "Q2443357",
+    "imdb": "nm0278468"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1960
+}

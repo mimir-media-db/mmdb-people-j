@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_medlen",
+  "name": "John Medlen",
+  "external_ids": {
+    "wikidata": "Q11727946",
+    "imdb": "nm0575820"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1967
+}

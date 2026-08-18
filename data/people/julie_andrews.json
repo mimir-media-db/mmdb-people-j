@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_julie_andrews",
+  "name": "Julie Andrews",
+  "external_ids": {
+    "wikidata": "Q161819",
+    "imdb": "nm0000267"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1935
+}

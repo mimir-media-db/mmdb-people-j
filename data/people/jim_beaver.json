@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jim_beaver",
+  "name": "Jim Beaver",
+  "external_ids": {
+    "wikidata": "Q155378",
+    "imdb": "nm0064769"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1950
+}

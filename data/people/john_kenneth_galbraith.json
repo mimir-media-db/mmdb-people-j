@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_john_kenneth_galbraith",
+  "name": "John Kenneth Galbraith",
+  "external_ids": {
+    "wikidata": "Q186042",
+    "imdb": "nm0301764"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1908,
+  "death_year": 2006
+}

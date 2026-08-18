@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jon_bon_jovi",
+  "name": "Jon Bon Jovi",
+  "external_ids": {
+    "wikidata": "Q150916",
+    "imdb": "nm0000954"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1962
+}

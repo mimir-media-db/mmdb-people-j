@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_hay",
+  "name": "John Hay",
+  "external_ids": {
+    "wikidata": "Q6238342",
+    "imdb": "nm0370510"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1964
+}

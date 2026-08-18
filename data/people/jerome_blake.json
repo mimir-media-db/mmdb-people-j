@@ -1,9 +1,10 @@
 {
   "schema_version": 1,
-  "id": "p_julie_brown",
-  "name": "Julie Brown",
+  "id": "p_jerome_blake",
+  "name": "Jerome Blake",
   "external_ids": {
-    "wikidata": "Q524776"
+    "wikidata": "Q3177404",
+    "imdb": "nm0086592"
   },
   "last_updated": "2026-08-18",
   "birth_year": 1955

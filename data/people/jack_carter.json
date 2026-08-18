@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_jack_carter",
+  "name": "Jack Carter",
+  "external_ids": {
+    "wikidata": "Q1676993",
+    "imdb": "nm0141659"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1922,
+  "death_year": 2015
+}

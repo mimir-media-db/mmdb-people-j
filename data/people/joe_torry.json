@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_joe_torry",
+  "name": "Joe Torry",
+  "external_ids": {
+    "wikidata": "Q6212700",
+    "imdb": "nm0868957"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1965
+}
