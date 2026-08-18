@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_dossett",
+  "name": "John Dossett",
+  "external_ids": {
+    "wikidata": "Q2437112",
+    "imdb": "nm0234440"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1957
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_cullum",
+  "name": "John Cullum",
+  "external_ids": {
+    "wikidata": "Q1905269",
+    "imdb": "nm0191633"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1930
+}

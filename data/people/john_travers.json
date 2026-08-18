@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_travers",
+  "name": "John Travers",
+  "external_ids": {
+    "wikidata": "Q1701958",
+    "imdb": "nm1290740"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1989
+}

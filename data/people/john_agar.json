@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_john_agar",
+  "name": "John Agar",
+  "external_ids": {
+    "wikidata": "Q593286",
+    "imdb": "nm0000730"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1921,
+  "death_year": 2002
+}

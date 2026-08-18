@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_john_ingle",
+  "name": "John Ingle",
+  "external_ids": {
+    "wikidata": "Q1354144",
+    "imdb": "nm0408834"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1928,
+  "death_year": 2012
+}
