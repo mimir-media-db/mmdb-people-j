@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_appel",
+  "name": "John Appel",
+  "external_ids": {
+    "wikidata": "Q2251143",
+    "imdb": "nm0032205"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1958
+}
