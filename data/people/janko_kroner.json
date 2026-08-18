@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_janko_kroner",
+  "name": "Janko Kroner",
+  "external_ids": {
+    "wikidata": "Q10791278",
+    "imdb": "nm2289804"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1956
+}

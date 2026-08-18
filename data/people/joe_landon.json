@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_joe_landon",
+  "name": "Joe Landon",
+  "external_ids": {
+    "wikidata": "Q3363679",
+    "imdb": "nm2836262"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1976
+}

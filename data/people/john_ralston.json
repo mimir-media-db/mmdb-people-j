@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_ralston",
+  "name": "John Ralston",
+  "external_ids": {
+    "wikidata": "Q768055",
+    "imdb": "nm0707816"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1964
+}
