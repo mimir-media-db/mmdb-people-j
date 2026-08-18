@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_jack_lemmon",
+  "name": "Jack Lemmon",
+  "external_ids": {
+    "wikidata": "Q94123",
+    "imdb": "nm0000493"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1925,
+  "death_year": 2001
+}

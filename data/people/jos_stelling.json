@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jos_stelling",
+  "name": "Jos Stelling",
+  "external_ids": {
+    "wikidata": "Q1704075",
+    "imdb": "nm0826348"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1945
+}

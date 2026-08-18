@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_jon_dough",
+  "name": "Jon Dough",
+  "external_ids": {
+    "wikidata": "Q1283491",
+    "imdb": "nm0234809"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1962,
+  "death_year": 2006
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jake_steed",
+  "name": "Jake Steed",
+  "external_ids": {
+    "wikidata": "Q428662",
+    "imdb": "nm0824348"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1970
+}

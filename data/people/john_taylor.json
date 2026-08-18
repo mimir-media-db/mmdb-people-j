@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_taylor",
+  "name": "John Taylor",
+  "external_ids": {
+    "wikidata": "Q540283",
+    "imdb": "nm0852616"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1960
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_johnny_lever",
+  "name": "Johnny Lever",
+  "external_ids": {
+    "wikidata": "Q983571",
+    "imdb": "nm0505323"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1957
+}
