@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_joyce_brothers",
+  "name": "Joyce Brothers",
+  "external_ids": {
+    "wikidata": "Q3187222",
+    "imdb": "nm0112579"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1927,
+  "death_year": 2013
+}

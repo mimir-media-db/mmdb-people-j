@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_bach",
+  "name": "John Bach",
+  "external_ids": {
+    "wikidata": "Q780432",
+    "imdb": "nm0045324"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1946
+}

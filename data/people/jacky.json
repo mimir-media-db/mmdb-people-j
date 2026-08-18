@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jacky",
+  "name": "Jacky",
+  "external_ids": {
+    "wikidata": "Q3157439",
+    "imdb": "nm0416044"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1948
+}
