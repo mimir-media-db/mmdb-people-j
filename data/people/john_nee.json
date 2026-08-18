@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_john_nee",
+  "name": "John Nee",
+  "external_ids": {
+    "wikidata": "Q6250203",
+    "imdb": "nm0624071"
+  },
+  "last_updated": "2026-08-18"
+}

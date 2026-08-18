@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jack_womack",
+  "name": "Jack Womack",
+  "external_ids": {
+    "wikidata": "Q950414",
+    "imdb": "nm10485561"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1956
+}

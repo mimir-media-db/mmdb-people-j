@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_noble",
+  "name": "John Noble",
+  "external_ids": {
+    "wikidata": "Q312399",
+    "imdb": "nm0633604"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1948
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_shepherd",
+  "name": "John Shepherd",
+  "external_ids": {
+    "wikidata": "Q6257591",
+    "imdb": "nm0791803"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1960
+}

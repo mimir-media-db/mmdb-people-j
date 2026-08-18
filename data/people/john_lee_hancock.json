@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_lee_hancock",
+  "name": "John Lee Hancock",
+  "external_ids": {
+    "wikidata": "Q1361200",
+    "imdb": "nm0359387"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1956
+}

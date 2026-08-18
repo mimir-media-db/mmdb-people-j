@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_john_forsythe",
+  "name": "John Forsythe",
+  "external_ids": {
+    "wikidata": "Q315217",
+    "imdb": "nm0001234"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1918,
+  "death_year": 2010
+}

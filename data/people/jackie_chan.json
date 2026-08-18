@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jackie_chan",
+  "name": "Jackie Chan",
+  "external_ids": {
+    "wikidata": "Q36970",
+    "imdb": "nm0000329"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1954
+}

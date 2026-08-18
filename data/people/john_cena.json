@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_cena",
+  "name": "John Cena",
+  "external_ids": {
+    "wikidata": "Q44437",
+    "imdb": "nm1078479"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1977
+}

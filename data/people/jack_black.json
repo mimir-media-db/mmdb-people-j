@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jack_black",
+  "name": "Jack Black",
+  "external_ids": {
+    "wikidata": "Q483907",
+    "imdb": "nm0085312"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1969
+}

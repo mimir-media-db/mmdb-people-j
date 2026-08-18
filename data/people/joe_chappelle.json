@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_joe_chappelle",
+  "name": "Joe Chappelle",
+  "external_ids": {
+    "wikidata": "Q1381885",
+    "imdb": "nm0152640"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1999
+}

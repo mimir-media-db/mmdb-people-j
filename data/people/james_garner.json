@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_james_garner",
+  "name": "James Garner",
+  "external_ids": {
+    "wikidata": "Q108510",
+    "imdb": "nm0001258"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1928,
+  "death_year": 2014
+}

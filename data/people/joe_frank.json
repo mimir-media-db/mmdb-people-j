@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_joe_frank",
+  "name": "Joe Frank",
+  "external_ids": {
+    "wikidata": "Q6209903",
+    "imdb": "nm0290990"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1938,
+  "death_year": 2018
+}

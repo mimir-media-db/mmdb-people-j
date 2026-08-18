@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_john_frankenheimer",
+  "name": "John Frankenheimer",
+  "external_ids": {
+    "wikidata": "Q262820",
+    "imdb": "nm0001239"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1930,
+  "death_year": 2002
+}

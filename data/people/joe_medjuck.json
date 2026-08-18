@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_joe_medjuck",
+  "name": "Joe Medjuck",
+  "external_ids": {
+    "wikidata": "Q1691527",
+    "imdb": "nm0575817"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1943
+}

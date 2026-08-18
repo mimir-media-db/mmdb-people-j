@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_john_shrapnel",
+  "name": "John Shrapnel",
+  "external_ids": {
+    "wikidata": "Q1375689",
+    "imdb": "nm0795344"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1942,
+  "death_year": 2020
+}

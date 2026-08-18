@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_joe_pantoliano",
+  "name": "Joe Pantoliano",
+  "external_ids": {
+    "wikidata": "Q296883",
+    "imdb": "nm0001592"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1951
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jennifer_lopez",
+  "name": "Jennifer Lopez",
+  "external_ids": {
+    "wikidata": "Q40715",
+    "imdb": "nm0000182"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1969
+}

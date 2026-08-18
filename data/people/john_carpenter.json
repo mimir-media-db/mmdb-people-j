@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_carpenter",
+  "name": "John Carpenter",
+  "external_ids": {
+    "wikidata": "Q95008",
+    "imdb": "nm0000118"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1948
+}

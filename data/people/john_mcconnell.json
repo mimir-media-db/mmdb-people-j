@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_mcconnell",
+  "name": "John McConnell",
+  "external_ids": {
+    "wikidata": "Q3182044",
+    "imdb": "nm0566279"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1958
+}

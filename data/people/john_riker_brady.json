@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_riker_brady",
+  "name": "John Riker Brady",
+  "external_ids": {
+    "wikidata": "Q6253764"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1822,
+  "death_year": 1891
+}

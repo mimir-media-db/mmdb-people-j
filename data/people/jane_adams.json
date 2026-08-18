@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jane_adams",
+  "name": "Jane Adams",
+  "external_ids": {
+    "wikidata": "Q436360",
+    "imdb": "nm0011038"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1965
+}

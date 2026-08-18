@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_badham",
+  "name": "John Badham",
+  "external_ids": {
+    "wikidata": "Q547485",
+    "imdb": "nm0000824"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1939
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_d_hancock",
+  "name": "John D. Hancock",
+  "external_ids": {
+    "wikidata": "Q1762240",
+    "imdb": "nm0359386"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1939
+}

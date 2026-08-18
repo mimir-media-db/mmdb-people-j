@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_joe_morton",
+  "name": "Joe Morton",
+  "external_ids": {
+    "wikidata": "Q459007",
+    "imdb": "nm0608012"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1947
+}

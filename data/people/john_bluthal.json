@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_john_bluthal",
+  "name": "John Bluthal",
+  "external_ids": {
+    "wikidata": "Q1699357",
+    "imdb": "nm0089944"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1929,
+  "death_year": 2018
+}

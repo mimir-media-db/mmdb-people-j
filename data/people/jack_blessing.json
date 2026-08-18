@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_jack_blessing",
+  "name": "Jack Blessing",
+  "external_ids": {
+    "wikidata": "Q3157129",
+    "imdb": "nm0088269"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1951,
+  "death_year": 2017
+}

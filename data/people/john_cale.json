@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_cale",
+  "name": "John Cale",
+  "external_ids": {
+    "wikidata": "Q45909",
+    "imdb": "nm0129816"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1942
+}

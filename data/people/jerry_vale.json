@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_jerry_vale",
+  "name": "Jerry Vale",
+  "external_ids": {
+    "wikidata": "Q764622",
+    "imdb": "nm0883890"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1930,
+  "death_year": 2014
+}

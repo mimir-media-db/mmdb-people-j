@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jim_carrey",
+  "name": "Jim Carrey",
+  "external_ids": {
+    "wikidata": "Q40504",
+    "imdb": "nm0000120"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1962
+}

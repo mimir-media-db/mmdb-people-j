@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jennifer_connelly",
+  "name": "Jennifer Connelly",
+  "external_ids": {
+    "wikidata": "Q103343",
+    "imdb": "nm0000124"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1970
+}

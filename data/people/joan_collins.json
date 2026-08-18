@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_joan_collins",
+  "name": "Joan Collins",
+  "external_ids": {
+    "wikidata": "Q152843",
+    "imdb": "nm0001058"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1933
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jon_lovitz",
+  "name": "Jon Lovitz",
+  "external_ids": {
+    "wikidata": "Q296524",
+    "imdb": "nm0001484"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1957
+}

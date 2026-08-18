@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_john_wesley",
+  "name": "John Wesley",
+  "external_ids": {
+    "wikidata": "Q971854",
+    "imdb": "nm0921746"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1947,
+  "death_year": 2019
+}

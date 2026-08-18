@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_hawkes",
+  "name": "John Hawkes",
+  "external_ids": {
+    "wikidata": "Q459384",
+    "imdb": "nm0370035"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1959
+}

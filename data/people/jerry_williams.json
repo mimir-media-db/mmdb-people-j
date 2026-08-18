@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_jerry_williams",
+  "name": "Jerry Williams",
+  "external_ids": {
+    "wikidata": "Q4356337",
+    "imdb": "nm0930894"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1942,
+  "death_year": 2018
+}
