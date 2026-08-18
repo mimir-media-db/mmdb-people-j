@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jean_carol",
+  "name": "Jean Carol",
+  "external_ids": {
+    "wikidata": "Q1543188",
+    "imdb": "nm0138966"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1999
+}

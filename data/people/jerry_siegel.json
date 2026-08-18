@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_jerry_siegel",
+  "name": "Jerry Siegel",
+  "external_ids": {
+    "wikidata": "Q380113",
+    "imdb": "nm0796950"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1914,
+  "death_year": 1996
+}

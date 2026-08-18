@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_joe_shuster",
+  "name": "Joe Shuster",
+  "external_ids": {
+    "wikidata": "Q471619",
+    "imdb": "nm0795975"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1914,
+  "death_year": 1992
+}

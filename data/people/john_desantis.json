@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_desantis",
+  "name": "John DeSantis",
+  "external_ids": {
+    "wikidata": "Q505634",
+    "imdb": "nm0220883"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1977
+}
