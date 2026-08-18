@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "id": "p_john_madden",
-  "name": "John Madden",
+  "id": "p_jose_mayer",
+  "name": "José Mayer",
   "external_ids": {
-    "wikidata": "Q51516",
-    "imdb": "nm0006960"
+    "wikidata": "Q2476293",
+    "imdb": "nm0562435"
   },
   "last_updated": "2026-08-18",
   "birth_year": 1949

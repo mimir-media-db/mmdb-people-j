@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jerry_seinfeld",
+  "name": "Jerry Seinfeld",
+  "external_ids": {
+    "wikidata": "Q215506",
+    "imdb": "nm0000632"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1954
+}

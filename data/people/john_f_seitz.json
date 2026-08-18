@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_john_f_seitz",
+  "name": "John F. Seitz",
+  "external_ids": {
+    "wikidata": "Q724695",
+    "imdb": "nm0005870"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1892,
+  "death_year": 1979
+}

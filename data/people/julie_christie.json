@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_julie_christie",
+  "name": "Julie Christie",
+  "external_ids": {
+    "wikidata": "Q181413",
+    "imdb": "nm0001046"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1940
+}

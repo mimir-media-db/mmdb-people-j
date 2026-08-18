@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_jimmy_scott",
+  "name": "Jimmy Scott",
+  "external_ids": {
+    "wikidata": "Q724621",
+    "imdb": "nm0779330"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1925,
+  "death_year": 2014
+}

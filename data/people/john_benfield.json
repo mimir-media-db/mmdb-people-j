@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_john_benfield",
+  "name": "John Benfield",
+  "external_ids": {
+    "wikidata": "Q15485378",
+    "imdb": "nm0071007"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1951,
+  "death_year": 2020
+}

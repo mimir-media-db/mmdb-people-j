@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_mckay",
+  "name": "John McKay",
+  "external_ids": {
+    "wikidata": "Q6247958",
+    "imdb": "nm0563814"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1964
+}
