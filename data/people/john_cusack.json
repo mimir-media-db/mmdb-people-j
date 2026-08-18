@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_john_cusack",
+  "name": "John Cusack",
+  "external_ids": {
+    "wikidata": "Q106175",
+    "imdb": "nm0000131"
+  },
+  "last_updated": "2026-08-12",
+  "birth_year": 1966,
+  "death_year": null
+}

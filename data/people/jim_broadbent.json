@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_jim_broadbent",
+  "name": "Jim Broadbent",
+  "external_ids": {
+    "wikidata": "Q185079",
+    "imdb": "nm0000980"
+  },
+  "last_updated": "2026-08-12",
+  "birth_year": 1949,
+  "death_year": null
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_jack_mcgee",
+  "name": "Jack McGee",
+  "external_ids": {
+    "wikidata": "Q1677114",
+    "imdb": "nm0569079"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1949,
+  "death_year": null
+}

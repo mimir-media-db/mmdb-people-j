@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_joe_roth",
+  "name": "Joe Roth",
+  "external_ids": {
+    "wikidata": "Q919992",
+    "imdb": "nm0005387"
+  },
+  "last_updated": "2026-08-12",
+  "birth_year": 1948,
+  "death_year": null
+}

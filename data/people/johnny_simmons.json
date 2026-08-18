@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_johnny_simmons",
+  "name": "Johnny Simmons",
+  "external_ids": {
+    "wikidata": "Q116636",
+    "imdb": "nm2215447"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1986,
+  "death_year": null
+}

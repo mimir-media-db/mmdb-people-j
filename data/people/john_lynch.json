@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_john_lynch",
+  "name": "John Lynch",
+  "external_ids": {
+    "wikidata": "Q267356",
+    "imdb": "nm0001487"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1961,
+  "death_year": null
+}

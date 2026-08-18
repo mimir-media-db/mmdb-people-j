@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_jeff_daniels",
+  "name": "Jeff Daniels",
+  "external_ids": {
+    "wikidata": "Q53680",
+    "imdb": "nm0001099"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1955,
+  "death_year": null
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_jimmy_clabots",
+  "name": "Jimmy Clabots",
+  "external_ids": {
+    "wikidata": "Q6199821",
+    "imdb": "nm2071929"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1980,
+  "death_year": null
+}

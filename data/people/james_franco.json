@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_james_franco",
+  "name": "James Franco",
+  "external_ids": {
+    "wikidata": "Q306403",
+    "imdb": "nm0290556"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1978,
+  "death_year": null
+}

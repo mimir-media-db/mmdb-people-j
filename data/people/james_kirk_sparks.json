@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_james_kirk_sparks",
+  "name": "James Kirk Sparks",
+  "external_ids": {
+    "wikidata": "Q111381732",
+    "imdb": "nm3824668"
+  },
+  "last_updated": "2026-08-13",
+  "death_year": null
+}

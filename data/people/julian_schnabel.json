@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_julian_schnabel",
+  "name": "Julian Schnabel",
+  "external_ids": {
+    "wikidata": "Q345379",
+    "imdb": "nm0773603"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1951,
+  "death_year": null
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_josh_blue",
+  "name": "Josh Blue",
+  "external_ids": {
+    "wikidata": "Q2309477",
+    "imdb": "nm2333144"
+  },
+  "last_updated": "2026-08-12",
+  "birth_year": 1978,
+  "death_year": null
+}

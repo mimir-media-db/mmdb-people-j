@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_jane_rosenthal",
+  "name": "Jane Rosenthal",
+  "external_ids": {
+    "wikidata": "Q445818",
+    "imdb": "nm0742772"
+  },
+  "last_updated": "2026-08-12",
+  "birth_year": 1956,
+  "death_year": null
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_jill_clayburgh",
+  "name": "Jill Clayburgh",
+  "external_ids": {
+    "wikidata": "Q230665",
+    "imdb": "nm0001049"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1944,
+  "death_year": 2010
+}

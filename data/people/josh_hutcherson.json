@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_josh_hutcherson",
+  "name": "Josh Hutcherson",
+  "external_ids": {
+    "wikidata": "Q217004",
+    "imdb": "nm1242688"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1992,
+  "death_year": null
+}

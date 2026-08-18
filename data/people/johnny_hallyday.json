@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_johnny_hallyday",
+  "name": "Johnny Hallyday",
+  "external_ids": {
+    "wikidata": "Q212015",
+    "imdb": "nm0002776"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1943,
+  "death_year": 2017
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_john_perkins",
+  "name": "John Perkins",
+  "external_ids": {
+    "wikidata": "Q465028",
+    "imdb": "nm2588438"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1945,
+  "death_year": null
+}

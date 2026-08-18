@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_john_c_reilly",
+  "name": "John C. Reilly",
+  "external_ids": {
+    "wikidata": "Q223110",
+    "imdb": "nm0000604"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1965,
+  "death_year": null
+}

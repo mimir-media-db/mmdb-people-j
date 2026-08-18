@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_john_sehil",
+  "name": "John Sehil",
+  "external_ids": {
+    "wikidata": "Q21500776",
+    "imdb": "nm4158808"
+  },
+  "last_updated": "2026-08-12",
+  "birth_year": 1988,
+  "death_year": null
+}

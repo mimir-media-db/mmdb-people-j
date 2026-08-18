@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_john_cleese",
+  "name": "John Cleese",
+  "external_ids": {
+    "wikidata": "Q25014",
+    "imdb": "nm0000092"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1939,
+  "death_year": null
+}

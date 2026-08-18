@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_john_leguizamo",
+  "name": "John Leguizamo",
+  "external_ids": {
+    "wikidata": "Q295233",
+    "imdb": "nm0000491"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1964,
+  "death_year": null
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_jesse_jane",
+  "name": "Jesse Jane",
+  "external_ids": {
+    "wikidata": "Q159436",
+    "imdb": "nm1377478"
+  },
+  "last_updated": "2026-08-12",
+  "birth_year": 1980,
+  "death_year": 2024
+}
