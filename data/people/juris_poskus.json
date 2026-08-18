@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_juris_poskus",
+  "name": "Juris Poškus",
+  "external_ids": {
+    "wikidata": "Q7216707",
+    "imdb": "nm0692691"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1958
+}

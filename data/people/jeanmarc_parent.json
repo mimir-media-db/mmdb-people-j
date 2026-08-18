@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jeanmarc_parent",
+  "name": "Jean-Marc Parent",
+  "external_ids": {
+    "wikidata": "Q3167455",
+    "imdb": "nm1051138"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1962
+}

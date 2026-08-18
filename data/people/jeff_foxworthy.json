@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jeff_foxworthy",
+  "name": "Jeff Foxworthy",
+  "external_ids": {
+    "wikidata": "Q2449557",
+    "imdb": "nm0289344"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1958
+}
