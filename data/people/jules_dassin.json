@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_jules_dassin",
+  "name": "Jules Dassin",
+  "external_ids": {
+    "wikidata": "Q260969",
+    "imdb": "nm0202088"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1911,
+  "death_year": 2008
+}
