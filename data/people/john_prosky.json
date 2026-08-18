@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_prosky",
+  "name": "John Prosky",
+  "external_ids": {
+    "wikidata": "Q1851956",
+    "imdb": "nm0698763"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1961
+}
