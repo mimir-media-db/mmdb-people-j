@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_jane_lynch",
+  "name": "Jane Lynch",
+  "external_ids": {
+    "wikidata": "Q228852",
+    "imdb": "nm0528331"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1960,
+  "death_year": null
+}

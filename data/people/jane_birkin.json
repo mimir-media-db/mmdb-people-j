@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_jane_birkin",
+  "name": "Jane Birkin",
+  "external_ids": {
+    "wikidata": "Q212873",
+    "imdb": "nm0000945"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1946,
+  "death_year": 2023
+}

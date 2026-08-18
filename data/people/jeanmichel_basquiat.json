@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_jeanmichel_basquiat",
+  "name": "Jean-Michel Basquiat",
+  "external_ids": {
+    "wikidata": "Q155407",
+    "imdb": "nm0060016"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1960,
+  "death_year": 1988
+}

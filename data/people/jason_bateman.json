@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_jason_bateman",
+  "name": "Jason Bateman",
+  "external_ids": {
+    "wikidata": "Q284636",
+    "imdb": "nm0000867"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1969,
+  "death_year": null
+}

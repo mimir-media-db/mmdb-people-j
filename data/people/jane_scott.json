@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_jane_scott",
+  "name": "Jane Scott",
+  "external_ids": {
+    "wikidata": "Q8462137",
+    "imdb": "nm0779280"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 2000,
+  "death_year": null
+}

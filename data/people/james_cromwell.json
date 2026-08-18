@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_james_cromwell",
+  "name": "James Cromwell",
+  "external_ids": {
+    "wikidata": "Q299483",
+    "imdb": "nm0000342"
+  },
+  "last_updated": "2026-08-17",
+  "birth_year": 1940,
+  "death_year": null
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_jean_reno",
+  "name": "Jean Reno",
+  "external_ids": {
+    "wikidata": "Q43697",
+    "imdb": "nm0000606"
+  },
+  "last_updated": "2026-08-12",
+  "birth_year": 1948,
+  "death_year": null
+}

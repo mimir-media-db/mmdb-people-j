@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_ja_rule",
+  "name": "Ja Rule",
+  "external_ids": {
+    "wikidata": "Q309843",
+    "imdb": "nm0750019"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1976,
+  "death_year": null
+}

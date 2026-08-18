@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_jake_scott",
+  "name": "Jake Scott",
+  "external_ids": {
+    "wikidata": "Q198567",
+    "imdb": "nm0779265"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1965,
+  "death_year": null
+}

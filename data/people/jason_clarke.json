@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_jason_clarke",
+  "name": "Jason Clarke",
+  "external_ids": {
+    "wikidata": "Q402764",
+    "imdb": "nm0164809"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1969,
+  "death_year": null
+}
