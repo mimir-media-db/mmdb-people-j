@@ -1,10 +1,9 @@
 {
   "schema_version": 1,
-  "id": "p_john_madden",
-  "name": "John Madden",
+  "id": "p_joseph_cirincione",
+  "name": "Joseph Cirincione",
   "external_ids": {
-    "wikidata": "Q51516",
-    "imdb": "nm0006960"
+    "wikidata": "Q6282132"
   },
   "last_updated": "2026-08-18",
   "birth_year": 1949
