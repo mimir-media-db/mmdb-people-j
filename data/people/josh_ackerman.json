@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_josh_ackerman",
+  "name": "Josh Ackerman",
+  "external_ids": {
+    "wikidata": "Q3185945",
+    "imdb": "nm0009986"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1977
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_glen",
+  "name": "John Glen",
+  "external_ids": {
+    "wikidata": "Q545216",
+    "imdb": "nm0322515"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1932
+}

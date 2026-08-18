@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_joe_c",
+  "name": "Joe C.",
+  "external_ids": {
+    "wikidata": "Q671837",
+    "imdb": "nm0127361"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1974,
+  "death_year": 2000
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jeanclaude_van_damme",
+  "name": "Jean-Claude Van Damme",
+  "external_ids": {
+    "wikidata": "Q308840",
+    "imdb": "nm0000241"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1960
+}

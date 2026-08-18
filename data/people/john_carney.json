@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_carney",
+  "name": "John Carney",
+  "external_ids": {
+    "wikidata": "Q3181205",
+    "imdb": "nm0138809"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1971
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_julia_levyboeken",
+  "name": "Julia Levy-Boeken",
+  "external_ids": {
+    "wikidata": "Q16647517",
+    "imdb": "nm0506662"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1985
+}

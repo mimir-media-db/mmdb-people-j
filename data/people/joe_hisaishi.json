@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_joe_hisaishi",
+  "name": "Joe Hisaishi",
+  "external_ids": {
+    "wikidata": "Q275900",
+    "imdb": "nm0386749"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1950
+}
