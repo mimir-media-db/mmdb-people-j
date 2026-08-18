@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jon_poll",
+  "name": "Jon Poll",
+  "external_ids": {
+    "wikidata": "Q6271390",
+    "imdb": "nm0689343"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1957
+}

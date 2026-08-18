@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_john_erman",
+  "name": "John Erman",
+  "external_ids": {
+    "wikidata": "Q3181443",
+    "imdb": "nm0259589"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1935,
+  "death_year": 2021
+}

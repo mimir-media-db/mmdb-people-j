@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_joe_hemsworth",
+  "name": "Joe Hemsworth",
+  "external_ids": {
+    "wikidata": "Q111632405",
+    "imdb": "nm1537824"
+  },
+  "last_updated": "2026-08-18"
+}

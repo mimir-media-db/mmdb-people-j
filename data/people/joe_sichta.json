@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_joe_sichta",
+  "name": "Joe Sichta",
+  "external_ids": {
+    "wikidata": "Q111982948",
+    "imdb": "nm1245812"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1975
+}

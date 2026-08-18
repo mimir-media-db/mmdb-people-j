@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_lapus",
+  "name": "John Lapus",
+  "external_ids": {
+    "wikidata": "Q6244034",
+    "imdb": "nm1109836"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1973
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_getz",
+  "name": "John Getz",
+  "external_ids": {
+    "wikidata": "Q1992967",
+    "imdb": "nm0315288"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1946
+}

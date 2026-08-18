@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jerome_maison",
+  "name": "Jérôme Maison",
+  "external_ids": {
+    "wikidata": "Q3190991",
+    "imdb": "nm1750206"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1952
+}

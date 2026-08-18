@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_john_garfield",
+  "name": "John Garfield",
+  "external_ids": {
+    "wikidata": "Q367053",
+    "imdb": "nm0002092"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1913,
+  "death_year": 1952
+}

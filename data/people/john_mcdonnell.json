@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_mcdonnell",
+  "name": "John McDonnell",
+  "external_ids": {
+    "wikidata": "Q6247666",
+    "imdb": "nm0568107"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1900
+}

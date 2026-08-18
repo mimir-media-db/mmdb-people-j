@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_john_simpson",
+  "name": "John Simpson",
+  "external_ids": {
+    "wikidata": "Q116939766",
+    "imdb": "nm0801055"
+  },
+  "last_updated": "2026-08-18"
+}

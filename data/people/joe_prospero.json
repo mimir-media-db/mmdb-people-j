@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_joe_prospero",
+  "name": "Joe Prospero",
+  "external_ids": {
+    "wikidata": "Q3808687",
+    "imdb": "nm0698789"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1988
+}

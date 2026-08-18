@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_josh_smith",
+  "name": "Josh Smith",
+  "external_ids": {
+    "wikidata": "Q6285171"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1877,
+  "death_year": 1954
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_john_bailey",
+  "name": "John Bailey",
+  "external_ids": {
+    "wikidata": "Q367813",
+    "imdb": "nm0007037"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1942,
+  "death_year": 2023
+}

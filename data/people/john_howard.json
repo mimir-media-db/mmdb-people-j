@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_howard",
+  "name": "John Howard",
+  "external_ids": {
+    "wikidata": "Q5670833",
+    "imdb": "nm0397398"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1952
+}

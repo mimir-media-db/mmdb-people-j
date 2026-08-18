@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_johnny_vegas",
+  "name": "Johnny Vegas",
+  "external_ids": {
+    "wikidata": "Q1702422",
+    "imdb": "nm0891943"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1971
+}

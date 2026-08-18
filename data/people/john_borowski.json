@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_borowski",
+  "name": "John Borowski",
+  "external_ids": {
+    "wikidata": "Q3181100",
+    "imdb": "nm1341944"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1952
+}

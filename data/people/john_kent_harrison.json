@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_kent_harrison",
+  "name": "John Kent Harrison",
+  "external_ids": {
+    "wikidata": "Q3181863",
+    "imdb": "nm0006867"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1952
+}

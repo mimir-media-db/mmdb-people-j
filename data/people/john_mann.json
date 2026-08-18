@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_john_mann",
+  "name": "John Mann",
+  "external_ids": {
+    "wikidata": "Q6246589",
+    "imdb": "nm0542821"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1962,
+  "death_year": 2019
+}
