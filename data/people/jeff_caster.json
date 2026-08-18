@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jeff_caster",
+  "name": "Jeff Caster",
+  "external_ids": {
+    "wikidata": "Q6173532",
+    "imdb": "nm0144901"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1958
+}

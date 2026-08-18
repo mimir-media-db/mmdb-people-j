@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_walker",
+  "name": "John Walker",
+  "external_ids": {
+    "wikidata": "Q23304334",
+    "imdb": "nm0907867"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1952
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jenny_yam",
+  "name": "Jenny Yam",
+  "external_ids": {
+    "wikidata": "Q9078794",
+    "imdb": "nm1234971"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1977
+}

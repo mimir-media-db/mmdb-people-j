@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_blackwell",
+  "name": "John Blackwell",
+  "external_ids": {
+    "wikidata": "Q3181068"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1973,
+  "death_year": 2017
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jarvis_cocker",
+  "name": "Jarvis Cocker",
+  "external_ids": {
+    "wikidata": "Q356994",
+    "imdb": "nm1006741"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1963
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jeff_gordon",
+  "name": "Jeff Gordon",
+  "external_ids": {
+    "wikidata": "Q313565",
+    "imdb": "nm0330298"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1971
+}

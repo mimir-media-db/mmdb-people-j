@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_joe_furey",
+  "name": "Joe Furey",
+  "external_ids": {
+    "wikidata": "Q6209936",
+    "imdb": "nm0298858"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1900
+}
