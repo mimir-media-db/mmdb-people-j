@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_julio_cortazar",
+  "name": "Julio Cortázar",
+  "external_ids": {
+    "wikidata": "Q174210",
+    "imdb": "nm0181497"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1914,
+  "death_year": 1984
+}

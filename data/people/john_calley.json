@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_john_calley",
+  "name": "John Calley",
+  "external_ids": {
+    "wikidata": "Q1618718",
+    "imdb": "nm0130492"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1930,
+  "death_year": 2011
+}
