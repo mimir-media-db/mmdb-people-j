@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_january_jones",
+  "name": "January Jones",
+  "external_ids": {
+    "wikidata": "Q223786",
+    "imdb": "nm0005064"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1978
+}

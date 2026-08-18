@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_light",
+  "name": "John Light",
+  "external_ids": {
+    "wikidata": "Q714848",
+    "imdb": "nm0509936"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1972
+}

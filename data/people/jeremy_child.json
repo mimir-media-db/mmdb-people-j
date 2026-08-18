@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_jeremy_child",
+  "name": "Jeremy Child",
+  "external_ids": {
+    "wikidata": "Q6181224",
+    "imdb": "nm0157461"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1944,
+  "death_year": 2022
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_joe_roberts",
+  "name": "Joe Roberts",
+  "external_ids": {
+    "wikidata": "Q1058664",
+    "imdb": "nm0731247"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1871,
+  "death_year": 1923
+}

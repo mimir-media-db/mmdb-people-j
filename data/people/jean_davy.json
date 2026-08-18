@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_jean_davy",
+  "name": "Jean Davy",
+  "external_ids": {
+    "wikidata": "Q3171592",
+    "imdb": "nm0205843"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1911,
+  "death_year": 2001
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_jack_kirby",
+  "name": "Jack Kirby",
+  "external_ids": {
+    "wikidata": "Q311607",
+    "imdb": "nm0456158"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1917,
+  "death_year": 1994
+}

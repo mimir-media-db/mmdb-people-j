@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_joe_estevez",
+  "name": "Joe Estevez",
+  "external_ids": {
+    "wikidata": "Q3180060",
+    "imdb": "nm0261724"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1946
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_john_buscema",
+  "name": "John Buscema",
+  "external_ids": {
+    "wikidata": "Q1395905",
+    "imdb": "nm1815387"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1927,
+  "death_year": 2002
+}

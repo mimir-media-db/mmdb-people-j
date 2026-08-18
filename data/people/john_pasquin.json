@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_pasquin",
+  "name": "John Pasquin",
+  "external_ids": {
+    "wikidata": "Q328483",
+    "imdb": "nm0664756"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1944
+}

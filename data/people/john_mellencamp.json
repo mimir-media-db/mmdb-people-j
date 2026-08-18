@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_mellencamp",
+  "name": "John Mellencamp",
+  "external_ids": {
+    "wikidata": "Q345431",
+    "imdb": "nm0577908"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1951
+}

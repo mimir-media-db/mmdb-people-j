@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_ohurley",
+  "name": "John O'Hurley",
+  "external_ids": {
+    "wikidata": "Q3142953",
+    "imdb": "nm0641417"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1954
+}

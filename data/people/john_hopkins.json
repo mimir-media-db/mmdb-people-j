@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_hopkins",
+  "name": "John Hopkins",
+  "external_ids": {
+    "wikidata": "Q651953",
+    "imdb": "nm0394204"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1974
+}

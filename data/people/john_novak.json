@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_novak",
+  "name": "John Novak",
+  "external_ids": {
+    "wikidata": "Q4018219",
+    "imdb": "nm0636868"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1955
+}

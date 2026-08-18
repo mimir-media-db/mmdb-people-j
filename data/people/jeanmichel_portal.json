@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jeanmichel_portal",
+  "name": "Jean-Michel Portal",
+  "external_ids": {
+    "wikidata": "Q2681916",
+    "imdb": "nm0691924"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1969
+}

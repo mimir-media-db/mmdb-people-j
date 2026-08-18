@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_whitesell",
+  "name": "John Whitesell",
+  "external_ids": {
+    "wikidata": "Q923930",
+    "imdb": "nm0925870"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1961
+}

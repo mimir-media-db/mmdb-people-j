@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_schuck",
+  "name": "John Schuck",
+  "external_ids": {
+    "wikidata": "Q1389759",
+    "imdb": "nm0775870"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1940
+}

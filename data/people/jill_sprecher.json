@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jill_sprecher",
+  "name": "Jill Sprecher",
+  "external_ids": {
+    "wikidata": "Q3808290",
+    "imdb": "nm0819613"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1999
+}

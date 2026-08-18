@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jenny_mccarthy",
+  "name": "Jenny McCarthy",
+  "external_ids": {
+    "wikidata": "Q230993",
+    "imdb": "nm0000189"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1972
+}

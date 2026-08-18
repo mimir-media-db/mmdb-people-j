@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_judy_davis",
+  "name": "Judy Davis",
+  "external_ids": {
+    "wikidata": "Q307882",
+    "imdb": "nm0001114"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1955
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_leigh",
+  "name": "John Leigh",
+  "external_ids": {
+    "wikidata": "Q1700812",
+    "imdb": "nm0500237"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1964
+}

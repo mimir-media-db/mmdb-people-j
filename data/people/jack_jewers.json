@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jack_jewers",
+  "name": "Jack Jewers",
+  "external_ids": {
+    "wikidata": "Q117885627",
+    "imdb": "nm0422456"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1983
+}
