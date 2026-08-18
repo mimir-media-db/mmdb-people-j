@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_james_bruce",
+  "name": "James Bruce",
+  "external_ids": {
+    "wikidata": "Q3160955",
+    "imdb": "nm0115500"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1952
+}

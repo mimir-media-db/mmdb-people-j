@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_jeanluc_nancy",
+  "name": "Jean-Luc Nancy",
+  "external_ids": {
+    "wikidata": "Q503017",
+    "imdb": "nm1241909"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1940,
+  "death_year": 2021
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_junior_walker",
+  "name": "Junior Walker",
+  "external_ids": {
+    "wikidata": "Q105297018",
+    "imdb": "nm1161978"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1985,
+  "death_year": 2006
+}

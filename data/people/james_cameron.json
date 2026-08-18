@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_james_cameron",
+  "name": "James Cameron",
+  "external_ids": {
+    "wikidata": "Q42574",
+    "imdb": "nm0000116"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1954
+}
