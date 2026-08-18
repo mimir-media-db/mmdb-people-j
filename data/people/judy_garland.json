@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_judy_garland",
+  "name": "Judy Garland",
+  "external_ids": {
+    "wikidata": "Q11637",
+    "imdb": "nm0000023"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1922,
+  "death_year": 1969
+}

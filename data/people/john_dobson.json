@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_john_dobson",
+  "name": "John Dobson",
+  "external_ids": {
+    "wikidata": "Q958609",
+    "imdb": "nm2003766"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1915,
+  "death_year": 2014
+}

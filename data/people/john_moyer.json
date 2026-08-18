@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_moyer",
+  "name": "John Moyer",
+  "external_ids": {
+    "wikidata": "Q6249665",
+    "imdb": "nm1112848"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1969
+}

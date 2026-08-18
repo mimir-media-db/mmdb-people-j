@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jerry_kovacs",
+  "name": "Jerry Kovacs",
+  "external_ids": {
+    "wikidata": "Q43299522",
+    "imdb": "nm1701708"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1979
+}

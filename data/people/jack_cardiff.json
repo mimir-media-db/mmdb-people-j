@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_jack_cardiff",
+  "name": "Jack Cardiff",
+  "external_ids": {
+    "wikidata": "Q436704",
+    "imdb": "nm0002153"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1914,
+  "death_year": 2009
+}

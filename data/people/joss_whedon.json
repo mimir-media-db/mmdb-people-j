@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_joss_whedon",
+  "name": "Joss Whedon",
+  "external_ids": {
+    "wikidata": "Q298025",
+    "imdb": "nm0923736"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1964
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_joan_van_ark",
+  "name": "Joan Van Ark",
+  "external_ids": {
+    "wikidata": "Q272007",
+    "imdb": "nm0005521"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1943
+}

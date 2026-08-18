@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jorg_pose",
+  "name": "Jörg Pose",
+  "external_ids": {
+    "wikidata": "Q104576",
+    "imdb": "nm0692630"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1959
+}

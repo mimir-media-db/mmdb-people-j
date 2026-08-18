@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jerome_salle",
+  "name": "Jérôme Salle",
+  "external_ids": {
+    "wikidata": "Q290606",
+    "imdb": "nm1362432"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1971
+}

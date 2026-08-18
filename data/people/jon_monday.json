@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jon_monday",
+  "name": "Jon Monday",
+  "external_ids": {
+    "wikidata": "Q6271259",
+    "imdb": "nm2454731"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1946
+}

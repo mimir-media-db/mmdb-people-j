@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_joan_baez",
+  "name": "Joan Baez",
+  "external_ids": {
+    "wikidata": "Q131725",
+    "imdb": "nm0001926"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1941
+}

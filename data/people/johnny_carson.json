@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_johnny_carson",
+  "name": "Johnny Carson",
+  "external_ids": {
+    "wikidata": "Q310819",
+    "imdb": "nm0001992"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1925,
+  "death_year": 2005
+}

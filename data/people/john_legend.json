@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_legend",
+  "name": "John Legend",
+  "external_ids": {
+    "wikidata": "Q44857",
+    "imdb": "nm1775466"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1978
+}

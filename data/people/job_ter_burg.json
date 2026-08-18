@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_job_ter_burg",
+  "name": "Job ter Burg",
+  "external_ids": {
+    "wikidata": "Q2601391",
+    "imdb": "nm0003102"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1972
+}

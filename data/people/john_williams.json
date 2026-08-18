@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_john_williams",
+  "name": "John Williams",
+  "external_ids": {
+    "wikidata": "Q117861506",
+    "imdb": "nm1084711"
+  },
+  "last_updated": "2026-08-18"
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_joe_walsh",
+  "name": "Joe Walsh",
+  "external_ids": {
+    "wikidata": "Q354033",
+    "imdb": "nm0909695"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1947
+}
