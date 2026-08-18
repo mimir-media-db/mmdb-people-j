@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jane_hamsher",
+  "name": "Jane Hamsher",
+  "external_ids": {
+    "wikidata": "Q6152348",
+    "imdb": "nm0359100"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1959
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jerry_trainor",
+  "name": "Jerry Trainor",
+  "external_ids": {
+    "wikidata": "Q349928",
+    "imdb": "nm0999117"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1977
+}

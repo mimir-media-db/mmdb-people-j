@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_john_forgeham",
+  "name": "John Forgeham",
+  "external_ids": {
+    "wikidata": "Q6233635",
+    "imdb": "nm0286225"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1941,
+  "death_year": 2017
+}

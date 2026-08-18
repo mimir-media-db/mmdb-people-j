@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_joe_quesada",
+  "name": "Joe Quesada",
+  "external_ids": {
+    "wikidata": "Q2635391",
+    "imdb": "nm0703315"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1962
+}

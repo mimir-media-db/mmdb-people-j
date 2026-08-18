@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jeff_probst",
+  "name": "Jeff Probst",
+  "external_ids": {
+    "wikidata": "Q2914539",
+    "imdb": "nm0698251"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1961
+}
