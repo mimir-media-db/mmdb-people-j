@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_juan_madrid",
+  "name": "Juan Madrid",
+  "external_ids": {
+    "wikidata": "Q133869",
+    "imdb": "nm0535107"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1947
+}

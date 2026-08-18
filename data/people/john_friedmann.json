@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_friedmann",
+  "name": "John Friedmann",
+  "external_ids": {
+    "wikidata": "Q1366551",
+    "imdb": "nm0602179"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1971
+}

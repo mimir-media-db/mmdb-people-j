@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_fink",
+  "name": "John Fink",
+  "external_ids": {
+    "wikidata": "Q6233152",
+    "imdb": "nm0277822"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1940
+}
