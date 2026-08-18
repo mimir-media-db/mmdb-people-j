@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_joe_simpson",
+  "name": "Joe Simpson",
+  "external_ids": {
+    "wikidata": "Q680185",
+    "imdb": "nm1440698"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1960
+}

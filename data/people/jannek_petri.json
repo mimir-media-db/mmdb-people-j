@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jannek_petri",
+  "name": "Jannek Petri",
+  "external_ids": {
+    "wikidata": "Q1682892",
+    "imdb": "nm1501353"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1975
+}
