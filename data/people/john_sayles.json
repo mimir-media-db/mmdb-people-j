@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_john_sayles",
+  "name": "John Sayles",
+  "external_ids": {
+    "wikidata": "Q2141212",
+    "imdb": "nm0000626"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1950,
+  "death_year": null
+}

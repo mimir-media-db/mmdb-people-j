@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_john_travolta",
+  "name": "John Travolta",
+  "external_ids": {
+    "wikidata": "Q80938",
+    "imdb": "nm0000237"
+  },
+  "last_updated": "2026-08-12",
+  "birth_year": 1954,
+  "death_year": null
+}

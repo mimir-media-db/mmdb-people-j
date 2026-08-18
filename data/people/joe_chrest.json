@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_joe_chrest",
+  "name": "Joe Chrest",
+  "external_ids": {
+    "wikidata": "Q22680869",
+    "imdb": "nm0159609"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1965,
+  "death_year": null
+}

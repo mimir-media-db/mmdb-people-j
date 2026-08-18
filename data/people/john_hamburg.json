@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_john_hamburg",
+  "name": "John Hamburg",
+  "external_ids": {
+    "wikidata": "Q167683",
+    "imdb": "nm0357453"
+  },
+  "last_updated": "2026-08-12",
+  "birth_year": 1970,
+  "death_year": null
+}

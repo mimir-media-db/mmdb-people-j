@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_joe_anderson",
+  "name": "Joe Anderson",
+  "external_ids": {
+    "wikidata": "Q703676",
+    "imdb": "nm1725848"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1982,
+  "death_year": null
+}

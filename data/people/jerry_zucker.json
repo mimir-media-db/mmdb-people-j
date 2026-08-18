@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_jerry_zucker",
+  "name": "Jerry Zucker",
+  "external_ids": {
+    "wikidata": "Q363666",
+    "imdb": "nm0958387"
+  },
+  "last_updated": "2026-08-12",
+  "birth_year": 1950,
+  "death_year": null
+}

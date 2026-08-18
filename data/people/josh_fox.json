@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_josh_fox",
+  "name": "Josh Fox",
+  "external_ids": {
+    "wikidata": "Q6288865",
+    "imdb": "nm1068198"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1972,
+  "death_year": null
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_john_bosnitch",
+  "name": "John Bosnitch",
+  "external_ids": {
+    "wikidata": "Q6222518",
+    "imdb": "nm3661554"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1961,
+  "death_year": null
+}

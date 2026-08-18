@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_john_hurt",
+  "name": "John Hurt",
+  "external_ids": {
+    "wikidata": "Q200405",
+    "imdb": "nm0000457"
+  },
+  "last_updated": "2026-08-12",
+  "birth_year": 1940,
+  "death_year": 2017
+}

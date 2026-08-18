@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_jessica_alba",
+  "name": "Jessica Alba",
+  "external_ids": {
+    "wikidata": "Q44077",
+    "imdb": "nm0004695"
+  },
+  "last_updated": "2026-08-12",
+  "birth_year": 1981,
+  "death_year": null
+}
