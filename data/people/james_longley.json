@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_james_longley",
+  "name": "James Longley",
+  "external_ids": {
+    "wikidata": "Q3806646",
+    "imdb": "nm1228118"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1971
+}

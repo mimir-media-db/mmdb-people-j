@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_bourgeois",
+  "name": "John Bourgeois",
+  "external_ids": {
+    "wikidata": "Q6222591",
+    "imdb": "nm0099909"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1956
+}

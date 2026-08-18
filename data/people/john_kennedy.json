@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_kennedy",
+  "name": "John Kennedy",
+  "external_ids": {
+    "wikidata": "Q6242859",
+    "imdb": "nm0448114"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1968
+}

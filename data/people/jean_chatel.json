@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jean_chatel",
+  "name": "Jean Chatel",
+  "external_ids": {
+    "wikidata": "Q3171268"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1884,
+  "death_year": 1948
+}

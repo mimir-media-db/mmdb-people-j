@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_wells",
+  "name": "John Wells",
+  "external_ids": {
+    "wikidata": "Q2465518",
+    "imdb": "nm0920274"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1956
+}

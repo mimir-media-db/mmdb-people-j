@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_joe_flanigan",
+  "name": "Joe Flanigan",
+  "external_ids": {
+    "wikidata": "Q313514",
+    "imdb": "nm0281167"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1967
+}
