@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_joe_cook",
+  "name": "Joe Cook",
+  "external_ids": {
+    "wikidata": "Q6209206",
+    "imdb": "nm0177106"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1890,
+  "death_year": 1959
+}

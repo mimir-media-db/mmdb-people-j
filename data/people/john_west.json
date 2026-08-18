@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_west",
+  "name": "John West",
+  "external_ids": {
+    "wikidata": "Q122766545",
+    "imdb": "nm0922150"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1971
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jane_mclean",
+  "name": "Jane McLean",
+  "external_ids": {
+    "wikidata": "Q3807015",
+    "imdb": "nm1067592"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1999
+}

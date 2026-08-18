@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_smithson",
+  "name": "John Smithson",
+  "external_ids": {
+    "wikidata": "Q6258406",
+    "imdb": "nm0810478"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1949
+}

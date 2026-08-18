@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_jerry_butler",
+  "name": "Jerry Butler",
+  "external_ids": {
+    "wikidata": "Q1565628",
+    "imdb": "nm0124973"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1959,
+  "death_year": 2018
+}

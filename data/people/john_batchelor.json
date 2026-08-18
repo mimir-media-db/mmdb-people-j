@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_batchelor",
+  "name": "John Batchelor",
+  "external_ids": {
+    "wikidata": "Q6221055",
+    "imdb": "nm0060741"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1969
+}

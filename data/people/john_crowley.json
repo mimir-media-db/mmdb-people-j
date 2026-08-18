@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_crowley",
+  "name": "John Crowley",
+  "external_ids": {
+    "wikidata": "Q6227781",
+    "imdb": "nm1259871"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1969
+}

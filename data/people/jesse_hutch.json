@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jesse_hutch",
+  "name": "Jesse Hutch",
+  "external_ids": {
+    "wikidata": "Q3177618",
+    "imdb": "nm1237948"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1981
+}

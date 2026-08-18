@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_james_redford",
+  "name": "James Redford",
+  "external_ids": {
+    "wikidata": "Q26885215",
+    "imdb": "nm0714853"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1962,
+  "death_year": 2020
+}

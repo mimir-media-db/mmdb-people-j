@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_joey_diaz",
+  "name": "Joey Diaz",
+  "external_ids": {
+    "wikidata": "Q6214342",
+    "imdb": "nm0224995"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1963
+}

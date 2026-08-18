@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jim_fall",
+  "name": "Jim Fall",
+  "external_ids": {
+    "wikidata": "Q6194909",
+    "imdb": "nm0266302"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1962
+}

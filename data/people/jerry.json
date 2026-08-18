@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_jerry",
+  "name": "Jerry",
+  "external_ids": {
+    "wikidata": "Q54567419",
+    "imdb": "nm1504071"
+  },
+  "last_updated": "2026-08-18"
+}

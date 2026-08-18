@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_deery",
+  "name": "John Deery",
+  "external_ids": {
+    "wikidata": "Q6229086",
+    "imdb": "nm1009027"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1999
+}

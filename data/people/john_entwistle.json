@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_john_entwistle",
+  "name": "John Entwistle",
+  "external_ids": {
+    "wikidata": "Q215835",
+    "imdb": "nm0258200"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1944,
+  "death_year": 2002
+}
