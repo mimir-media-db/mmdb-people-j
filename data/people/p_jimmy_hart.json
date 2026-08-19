@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jimmy_hart",
+  "name": "Jimmy Hart",
+  "external_ids": {
+    "wikidata": "Q529443",
+    "imdb": "nm0366352"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1943
+}

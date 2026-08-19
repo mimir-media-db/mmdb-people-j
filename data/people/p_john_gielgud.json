@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_john_gielgud",
+  "name": "John Gielgud",
+  "external_ids": {
+    "wikidata": "Q204685",
+    "imdb": "nm0000024"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1903,
+  "death_year": 1999
+}

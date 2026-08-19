@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_joe_murray",
+  "name": "Joe Murray",
+  "external_ids": {
+    "wikidata": "Q1383172",
+    "imdb": "nm0615061"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1961
+}
