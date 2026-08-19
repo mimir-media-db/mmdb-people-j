@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jordan_peele",
+  "name": "Jordan Peele",
+  "external_ids": {
+    "wikidata": "Q3371986",
+    "imdb": "nm1443502"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1979
+}

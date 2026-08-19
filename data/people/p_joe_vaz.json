@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_joe_vaz",
+  "name": "Joe Vaz",
+  "external_ids": {
+    "wikidata": "Q3808718",
+    "imdb": "nm1978748"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1972
+}

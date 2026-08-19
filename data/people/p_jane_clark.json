@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jane_clark",
+  "name": "Jane Clark",
+  "external_ids": {
+    "wikidata": "Q26252627",
+    "imdb": "nm0164053"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1952
+}

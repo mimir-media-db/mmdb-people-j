@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_logan",
+  "name": "John Logan",
+  "external_ids": {
+    "wikidata": "Q384004",
+    "imdb": "nm0517589"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1961
+}

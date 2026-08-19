@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_john_normington",
+  "name": "John Normington",
+  "external_ids": {
+    "wikidata": "Q578098",
+    "imdb": "nm0635712"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1937,
+  "death_year": 2007
+}

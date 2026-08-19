@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_jane_forrest",
+  "name": "Jane Forrest",
+  "external_ids": {
+    "wikidata": "Q113462164",
+    "imdb": "nm1447216"
+  },
+  "last_updated": "2026-08-19"
+}

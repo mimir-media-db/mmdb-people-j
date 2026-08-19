@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_mccook",
+  "name": "John McCook",
+  "external_ids": {
+    "wikidata": "Q1345474",
+    "imdb": "nm0198931"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1944
+}

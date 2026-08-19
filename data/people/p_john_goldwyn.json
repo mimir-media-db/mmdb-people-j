@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_goldwyn",
+  "name": "John Goldwyn",
+  "external_ids": {
+    "wikidata": "Q6235651",
+    "imdb": "nm0326415"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1958
+}
