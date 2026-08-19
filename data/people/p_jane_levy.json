@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jane_levy",
+  "name": "Jane Levy",
+  "external_ids": {
+    "wikidata": "Q452618",
+    "imdb": "nm3994408"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1989
+}
