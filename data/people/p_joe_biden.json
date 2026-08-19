@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_joe_biden",
+  "name": "Joe Biden",
+  "external_ids": {
+    "wikidata": "Q6279",
+    "imdb": "nm0081182"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1942
+}
