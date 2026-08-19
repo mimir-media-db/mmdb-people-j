@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_goldschmidt",
+  "name": "John Goldschmidt",
+  "external_ids": {
+    "wikidata": "Q6235648",
+    "imdb": "nm0326020"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1943
+}
