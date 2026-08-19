@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_joe_budden",
+  "name": "Joe Budden",
+  "external_ids": {
+    "wikidata": "Q444832",
+    "imdb": "nm1379451"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1980
+}

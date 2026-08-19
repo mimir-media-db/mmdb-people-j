@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jeany_spark",
+  "name": "Jeany Spark",
+  "external_ids": {
+    "wikidata": "Q3176319",
+    "imdb": "nm2935576"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1982
+}

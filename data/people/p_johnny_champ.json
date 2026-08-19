@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_johnny_champ",
+  "name": "Johnny Champ",
+  "external_ids": {
+    "wikidata": "Q117430114",
+    "imdb": "nm3820190"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1987
+}

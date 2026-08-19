@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_john_regala",
+  "name": "John Regala",
+  "external_ids": {
+    "wikidata": "Q12965377",
+    "imdb": "nm1049183"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1965,
+  "death_year": 2023
+}
