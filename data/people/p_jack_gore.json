@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jack_gore",
+  "name": "Jack Gore",
+  "external_ids": {
+    "wikidata": "Q61959590",
+    "imdb": "nm5375420"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 2005
+}
