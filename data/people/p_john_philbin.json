@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_philbin",
+  "name": "John Philbin",
+  "external_ids": {
+    "wikidata": "Q6252750",
+    "imdb": "nm0679904"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1960
+}
