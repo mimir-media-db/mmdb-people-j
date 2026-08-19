@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_jim_ward",
+  "name": "Jim Ward",
+  "external_ids": {
+    "wikidata": "Q4280417",
+    "imdb": "nm0911589"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1959,
+  "death_year": 2025
+}

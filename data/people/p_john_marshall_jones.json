@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_marshall_jones",
+  "name": "John Marshall Jones",
+  "external_ids": {
+    "wikidata": "Q786106",
+    "imdb": "nm0428426"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1962
+}

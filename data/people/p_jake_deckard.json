@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jake_deckard",
+  "name": "Jake Deckard",
+  "external_ids": {
+    "wikidata": "Q1282481",
+    "imdb": "nm2019699"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1972
+}

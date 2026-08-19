@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jim_orourke",
+  "name": "Jim O'Rourke",
+  "external_ids": {
+    "wikidata": "Q547373",
+    "imdb": "nm0642553"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1969
+}

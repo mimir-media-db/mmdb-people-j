@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_henshaw",
+  "name": "John Henshaw",
+  "external_ids": {
+    "wikidata": "Q3181741",
+    "imdb": "nm0378132"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1950
+}

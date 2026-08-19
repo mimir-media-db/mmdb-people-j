@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jack_huston",
+  "name": "Jack Huston",
+  "external_ids": {
+    "wikidata": "Q1190693",
+    "imdb": "nm1658935"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1982
+}

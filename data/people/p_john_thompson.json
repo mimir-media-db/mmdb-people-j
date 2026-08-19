@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_john_thompson",
+  "name": "John Thompson",
+  "external_ids": {
+    "wikidata": "Q65486925",
+    "imdb": "nm0860315"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1999,
+  "death_year": 2018
+}

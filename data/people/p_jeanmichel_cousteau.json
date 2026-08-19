@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jeanmichel_cousteau",
+  "name": "Jean-Michel Cousteau",
+  "external_ids": {
+    "wikidata": "Q1374493",
+    "imdb": "nm0184151"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1938
+}

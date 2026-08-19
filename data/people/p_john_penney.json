@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_penney",
+  "name": "John Penney",
+  "external_ids": {
+    "wikidata": "Q16734371",
+    "imdb": "nm0003587"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1900
+}

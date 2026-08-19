@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_suchet",
+  "name": "John Suchet",
+  "external_ids": {
+    "wikidata": "Q6259588",
+    "imdb": "nm1555170"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1944
+}
