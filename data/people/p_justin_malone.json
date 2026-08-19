@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_justin_malone",
+  "name": "Justin Malone",
+  "external_ids": {
+    "wikidata": "Q108454539",
+    "imdb": "nm2335900"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1982
+}
