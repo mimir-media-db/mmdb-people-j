@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_joe_thomas",
+  "name": "Joe Thomas",
+  "external_ids": {
+    "wikidata": "Q6212645",
+    "imdb": "nm3022504"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1983
+}
