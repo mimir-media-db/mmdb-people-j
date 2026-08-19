@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jane_zhang",
+  "name": "Jane Zhang",
+  "external_ids": {
+    "wikidata": "Q51169",
+    "imdb": "nm2168158"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1984
+}

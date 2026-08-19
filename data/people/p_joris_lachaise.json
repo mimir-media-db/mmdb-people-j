@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_joris_lachaise",
+  "name": "Joris Lachaise",
+  "external_ids": {
+    "wikidata": "Q123636183",
+    "imdb": "nm4569675"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1979
+}
