@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jim_walton",
+  "name": "Jim Walton",
+  "external_ids": {
+    "wikidata": "Q16239429",
+    "imdb": "nm0910536"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1955
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_johnny_hansen",
+  "name": "Johnny Hansen",
+  "external_ids": {
+    "wikidata": "Q12320237",
+    "imdb": "nm1201319"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1965
+}
