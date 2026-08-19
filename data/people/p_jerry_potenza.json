@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jerry_potenza",
+  "name": "Jerry Potenza",
+  "external_ids": {
+    "wikidata": "Q3808037",
+    "imdb": "nm1888758"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1959
+}
