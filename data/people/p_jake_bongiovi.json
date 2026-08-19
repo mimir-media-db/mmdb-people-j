@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jake_bongiovi",
+  "name": "Jake Bongiovi",
+  "external_ids": {
+    "wikidata": "Q117536833",
+    "imdb": "nm11249635"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 2002
+}

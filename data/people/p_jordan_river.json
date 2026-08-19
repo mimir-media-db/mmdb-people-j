@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jordan_river",
+  "name": "Jordan River",
+  "external_ids": {
+    "wikidata": "Q113667468",
+    "imdb": "nm4818490"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1976
+}

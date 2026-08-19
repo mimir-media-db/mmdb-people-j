@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_john_macmillan",
+  "name": "John Macmillan",
+  "external_ids": {
+    "wikidata": "Q112161752",
+    "imdb": "nm3025293"
+  },
+  "last_updated": "2026-08-19"
+}
