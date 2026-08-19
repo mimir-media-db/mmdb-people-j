@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_john_leddy",
+  "name": "John Leddy",
+  "external_ids": {
+    "wikidata": "Q1819827",
+    "imdb": "nm0496420"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1930,
+  "death_year": 2022
+}

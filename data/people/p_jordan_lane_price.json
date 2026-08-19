@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jordan_lane_price",
+  "name": "Jordan Lane Price",
+  "external_ids": {
+    "wikidata": "Q20685181",
+    "imdb": "nm4883135"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1992
+}
