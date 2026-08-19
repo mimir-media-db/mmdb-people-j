@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_higgins",
+  "name": "John Higgins",
+  "external_ids": {
+    "wikidata": "Q110089571",
+    "imdb": "nm3769182"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1995
+}
