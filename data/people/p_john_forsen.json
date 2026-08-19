@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_forsen",
+  "name": "John Forsen",
+  "external_ids": {
+    "wikidata": "Q6233690",
+    "imdb": "nm1834431"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1958
+}

@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_james_barnes",
+  "name": "James Barnes",
+  "external_ids": {
+    "wikidata": "Q21505941",
+    "imdb": "nm1765969"
+  },
+  "last_updated": "2026-08-19"
+}

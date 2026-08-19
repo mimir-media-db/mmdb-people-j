@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_toll",
+  "name": "John Toll",
+  "external_ids": {
+    "wikidata": "Q585668",
+    "imdb": "nm0001799"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1952
+}

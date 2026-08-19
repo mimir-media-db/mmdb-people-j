@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_manley",
+  "name": "John Manley",
+  "external_ids": {
+    "wikidata": "Q1389967",
+    "imdb": "nm2226728"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1950
+}
