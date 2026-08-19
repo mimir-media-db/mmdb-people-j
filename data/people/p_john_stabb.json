@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_john_stabb",
+  "name": "John Stabb",
+  "external_ids": {
+    "wikidata": "Q24039863",
+    "imdb": "nm1387481"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1961,
+  "death_year": 2016
+}

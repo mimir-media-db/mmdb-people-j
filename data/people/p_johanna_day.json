@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_johanna_day",
+  "name": "Johanna Day",
+  "external_ids": {
+    "wikidata": "Q16195498",
+    "imdb": "nm0206449"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1963
+}
