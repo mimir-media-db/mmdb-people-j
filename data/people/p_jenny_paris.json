@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jenny_paris",
+  "name": "Jenny Paris",
+  "external_ids": {
+    "wikidata": "Q83966792",
+    "imdb": "nm7809810"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1983
+}

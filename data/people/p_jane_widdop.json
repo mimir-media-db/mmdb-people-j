@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jane_widdop",
+  "name": "Jane Widdop",
+  "external_ids": {
+    "wikidata": "Q120485790",
+    "imdb": "nm4758719"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 2002
+}

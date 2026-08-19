@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_jon_paul",
+  "name": "Jon Paul",
+  "external_ids": {
+    "wikidata": "Q133289256",
+    "imdb": "nm9311346"
+  },
+  "last_updated": "2026-08-19"
+}

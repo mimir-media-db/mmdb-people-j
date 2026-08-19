@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_joe_anders",
+  "name": "Joe Anders",
+  "external_ids": {
+    "wikidata": "Q75242023",
+    "imdb": "nm11227851"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 2003
+}
