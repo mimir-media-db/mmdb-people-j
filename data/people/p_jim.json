@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jim",
+  "name": "Jim",
+  "external_ids": {
+    "wikidata": "Q3178716",
+    "imdb": "nm6703692"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1966
+}
