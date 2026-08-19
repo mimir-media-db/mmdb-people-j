@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_james",
+  "name": "James",
+  "external_ids": {
+    "wikidata": "Q20811059",
+    "imdb": "nm1124690"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1954,
+  "death_year": 2007
+}

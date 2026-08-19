@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jane_goldman",
+  "name": "Jane Goldman",
+  "external_ids": {
+    "wikidata": "Q32661",
+    "imdb": "nm0963359"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1970
+}

@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_jack_english",
+  "name": "Jack English",
+  "external_ids": {
+    "wikidata": "Q22251822",
+    "imdb": "nm3961935"
+  },
+  "last_updated": "2026-08-19"
+}

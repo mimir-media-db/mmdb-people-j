@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jane_badler",
+  "name": "Jane Badler",
+  "external_ids": {
+    "wikidata": "Q267476",
+    "imdb": "nm0000826"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1953
+}

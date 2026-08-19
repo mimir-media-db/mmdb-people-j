@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jeremy_luke",
+  "name": "Jeremy Luke",
+  "external_ids": {
+    "wikidata": "Q15461240",
+    "imdb": "nm1157053"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1977
+}

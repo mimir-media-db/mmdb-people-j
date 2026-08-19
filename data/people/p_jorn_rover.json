@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jorn_rover",
+  "name": "Jörn Röver",
+  "external_ids": {
+    "wikidata": "Q38241865",
+    "imdb": "nm1841673"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1965
+}

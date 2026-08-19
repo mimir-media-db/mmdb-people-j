@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_john_deifer",
+  "name": "John Deifer",
+  "external_ids": {
+    "wikidata": "Q111381768",
+    "imdb": "nm4178528"
+  },
+  "last_updated": "2026-08-19"
+}

@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_john_albo",
+  "name": "John Albo",
+  "external_ids": {
+    "wikidata": "Q113586149",
+    "imdb": "nm1009748"
+  },
+  "last_updated": "2026-08-19"
+}

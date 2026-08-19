@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_jacques_prevert",
+  "name": "Jacques Prévert",
+  "external_ids": {
+    "wikidata": "Q165274",
+    "imdb": "nm0699535"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1900,
+  "death_year": 1977
+}
