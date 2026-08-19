@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_joe_talbot",
+  "name": "Joe Talbot",
+  "external_ids": {
+    "wikidata": "Q66606801",
+    "imdb": "nm7050300"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1990
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_joe_drake",
+  "name": "Joe Drake",
+  "external_ids": {
+    "wikidata": "Q6209587"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1963,
+  "death_year": 1993
+}
