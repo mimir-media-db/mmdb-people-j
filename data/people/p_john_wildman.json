@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_wildman",
+  "name": "John Wildman",
+  "external_ids": {
+    "wikidata": "Q6264006",
+    "imdb": "nm0928708"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1960
+}

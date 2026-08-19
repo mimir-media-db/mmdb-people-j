@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jhansi",
+  "name": "Jhansi",
+  "external_ids": {
+    "wikidata": "Q20560008",
+    "imdb": "nm1219922"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1971
+}
