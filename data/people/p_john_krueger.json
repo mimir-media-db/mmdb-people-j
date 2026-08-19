@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_john_krueger",
+  "name": "John Krueger",
+  "external_ids": {
+    "wikidata": "Q114797022",
+    "imdb": "nm2442500"
+  },
+  "last_updated": "2026-08-19"
+}

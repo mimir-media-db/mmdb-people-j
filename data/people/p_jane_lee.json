@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jane_lee",
+  "name": "Jane Lee",
+  "external_ids": {
+    "wikidata": "Q9195871",
+    "imdb": "nm3117511"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1976
+}

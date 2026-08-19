@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_estrada",
+  "name": "John Estrada",
+  "external_ids": {
+    "wikidata": "Q6231951",
+    "imdb": "nm0261824"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1973
+}

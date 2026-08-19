@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_john_stead",
+  "name": "John Stead",
+  "external_ids": {
+    "wikidata": "Q118126328",
+    "imdb": "nm0824093"
+  },
+  "last_updated": "2026-08-19"
+}

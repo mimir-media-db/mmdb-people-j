@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_nolte",
+  "name": "John Nolte",
+  "external_ids": {
+    "wikidata": "Q117864019",
+    "imdb": "nm2131829"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1965
+}
