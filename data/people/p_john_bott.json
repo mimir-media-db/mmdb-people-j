@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_john_bott",
+  "name": "John Bott",
+  "external_ids": {
+    "wikidata": "Q110811761",
+    "imdb": "nm0098614"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1923,
+  "death_year": 1994
+}
