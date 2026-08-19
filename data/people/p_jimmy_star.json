@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jimmy_star",
+  "name": "Jimmy Star",
+  "external_ids": {
+    "wikidata": "Q56064291",
+    "imdb": "nm3046500"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1964
+}
