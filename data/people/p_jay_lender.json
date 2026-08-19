@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jay_lender",
+  "name": "Jay Lender",
+  "external_ids": {
+    "wikidata": "Q3163237",
+    "imdb": "nm1083610"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1969
+}
