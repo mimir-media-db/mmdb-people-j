@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_jean_chevalier",
+  "name": "Jean Chevalier",
+  "external_ids": {
+    "wikidata": "Q115052003",
+    "imdb": "nm7593798"
+  },
+  "last_updated": "2026-08-19"
+}
