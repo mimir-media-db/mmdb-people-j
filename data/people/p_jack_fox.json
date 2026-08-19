@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jack_fox",
+  "name": "Jack Fox",
+  "external_ids": {
+    "wikidata": "Q5924288",
+    "imdb": "nm3484657"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1985
+}

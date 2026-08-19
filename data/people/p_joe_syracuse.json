@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_joe_syracuse",
+  "name": "Joe Syracuse",
+  "external_ids": {
+    "wikidata": "Q114026706",
+    "imdb": "nm0843467"
+  },
+  "last_updated": "2026-08-19"
+}

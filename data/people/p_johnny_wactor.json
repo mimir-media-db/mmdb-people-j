@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_johnny_wactor",
+  "name": "Johnny Wactor",
+  "external_ids": {
+    "wikidata": "Q59779875",
+    "imdb": "nm3619000"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1986,
+  "death_year": 2024
+}

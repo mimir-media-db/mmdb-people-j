@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_brumpton",
+  "name": "John Brumpton",
+  "external_ids": {
+    "wikidata": "Q16201074",
+    "imdb": "nm0115979"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1958
+}

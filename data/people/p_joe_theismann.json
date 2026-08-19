@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_joe_theismann",
+  "name": "Joe Theismann",
+  "external_ids": {
+    "wikidata": "Q175963",
+    "imdb": "nm0005483"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1949
+}

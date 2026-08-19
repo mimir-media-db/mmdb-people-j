@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_john_brennan",
+  "name": "John Brennan",
+  "external_ids": {
+    "wikidata": "Q27044621",
+    "imdb": "nm8089188"
+  },
+  "last_updated": "2026-08-19"
+}
