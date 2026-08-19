@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_john_foss",
+  "name": "John Foss",
+  "external_ids": {
+    "wikidata": "Q136653904",
+    "imdb": "nm1458561"
+  },
+  "last_updated": "2026-08-19"
+}

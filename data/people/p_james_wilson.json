@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_james_wilson",
+  "name": "James Wilson",
+  "external_ids": {
+    "wikidata": "Q124606728",
+    "imdb": "nm1034914"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1965
+}
