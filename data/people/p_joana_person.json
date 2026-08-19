@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_joana_person",
+  "name": "Joana Person",
+  "external_ids": {
+    "wikidata": "Q15069874",
+    "imdb": "nm5297057"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1995
+}

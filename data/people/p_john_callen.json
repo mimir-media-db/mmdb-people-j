@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_callen",
+  "name": "John Callen",
+  "external_ids": {
+    "wikidata": "Q1108011",
+    "imdb": "nm0130442"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1946
+}

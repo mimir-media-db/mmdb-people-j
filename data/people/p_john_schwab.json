@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_schwab",
+  "name": "John Schwab",
+  "external_ids": {
+    "wikidata": "Q6257003",
+    "imdb": "nm1134945"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1972
+}

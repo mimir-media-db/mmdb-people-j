@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_le_hay",
+  "name": "John Le Hay",
+  "external_ids": {
+    "wikidata": "Q6244277"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1854,
+  "death_year": 1926
+}

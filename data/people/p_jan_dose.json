@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jan_dose",
+  "name": "Jan Dose",
+  "external_ids": {
+    "wikidata": "Q1681719",
+    "imdb": "nm2719140"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1985
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_hardwick",
+  "name": "John Hardwick",
+  "external_ids": {
+    "wikidata": "Q6237749",
+    "imdb": "nm1034628"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1964
+}

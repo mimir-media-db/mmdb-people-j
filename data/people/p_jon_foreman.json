@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jon_foreman",
+  "name": "Jon Foreman",
+  "external_ids": {
+    "wikidata": "Q3028298",
+    "imdb": "nm0286049"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1976
+}
