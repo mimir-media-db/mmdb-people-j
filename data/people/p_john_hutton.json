@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_john_hutton",
+  "name": "John Hutton",
+  "external_ids": {
+    "wikidata": "Q111382073",
+    "imdb": "nm0404632"
+  },
+  "last_updated": "2026-08-19"
+}

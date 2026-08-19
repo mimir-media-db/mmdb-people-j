@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_hellberg",
+  "name": "John Hellberg",
+  "external_ids": {
+    "wikidata": "Q117863787",
+    "imdb": "nm1211655"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1976
+}
