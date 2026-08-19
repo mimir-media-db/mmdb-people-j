@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jack_quaid",
+  "name": "Jack Quaid",
+  "external_ids": {
+    "wikidata": "Q1139078",
+    "imdb": "nm4425051"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1992
+}
