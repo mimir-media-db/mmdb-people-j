@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_john_hoyt",
+  "name": "John Hoyt",
+  "external_ids": {
+    "wikidata": "Q1700513",
+    "imdb": "nm0398466"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1905,
+  "death_year": 1991
+}
