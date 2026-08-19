@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_farrelly",
+  "name": "John Farrelly",
+  "external_ids": {
+    "wikidata": "Q62267807",
+    "imdb": "nm5597474"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 2000
+}
