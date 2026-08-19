@@ -3,7 +3,10 @@
   "id": "p_james_flynn",
   "name": "James Flynn",
   "external_ids": {
-    "wikidata": "Q131982106"
+    "wikidata": "Q22323697",
+    "imdb": "nm0283478"
   },
-  "last_updated": "2026-08-19"
+  "last_updated": "2026-08-19",
+  "birth_year": 1964,
+  "death_year": 2023
 }
