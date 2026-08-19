@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_doolan",
+  "name": "John Doolan",
+  "external_ids": {
+    "wikidata": "Q66772735",
+    "imdb": "nm2716769"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1984
+}

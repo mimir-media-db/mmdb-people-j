@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_joel_fry",
+  "name": "Joel Fry",
+  "external_ids": {
+    "wikidata": "Q16208371",
+    "imdb": "nm2181128"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1983
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_fleck",
+  "name": "John Fleck",
+  "external_ids": {
+    "wikidata": "Q1333606",
+    "imdb": "nm0281387"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1951
+}

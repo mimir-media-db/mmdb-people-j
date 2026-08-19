@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_john_humber",
+  "name": "John Humber",
+  "external_ids": {
+    "wikidata": "Q114012242",
+    "imdb": "nm0401674"
+  },
+  "last_updated": "2026-08-19"
+}

@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_jim_high",
+  "name": "Jim High",
+  "external_ids": {
+    "wikidata": "Q131842059",
+    "imdb": "nm3426177"
+  },
+  "last_updated": "2026-08-19"
+}

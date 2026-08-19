@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_joe_project_p",
+  "name": "Joe Project P",
+  "external_ids": {
+    "wikidata": "Q12487955",
+    "imdb": "nm3368049"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1967
+}

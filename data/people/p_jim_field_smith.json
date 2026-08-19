@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jim_field_smith",
+  "name": "Jim Field Smith",
+  "external_ids": {
+    "wikidata": "Q12810116",
+    "imdb": "nm1637768"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1979
+}

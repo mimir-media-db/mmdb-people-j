@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_josh_dallas",
+  "name": "Josh Dallas",
+  "external_ids": {
+    "wikidata": "Q714261",
+    "imdb": "nm2796047"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1978
+}
