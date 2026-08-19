@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_jeremy_sample",
+  "name": "Jeremy Sample",
+  "external_ids": {
+    "wikidata": "Q65998838",
+    "imdb": "nm2078999"
+  },
+  "last_updated": "2026-08-19"
+}

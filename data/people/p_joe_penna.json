@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_joe_penna",
+  "name": "Joe Penna",
+  "external_ids": {
+    "wikidata": "Q1691554",
+    "imdb": "nm1020835"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1987
+}

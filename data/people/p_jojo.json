@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "id": "p_jojo",
-  "name": "JoJo",
+  "name": "Jojo",
   "external_ids": {
-    "wikidata": "Q215219",
-    "imdb": "nm1685658"
+    "wikidata": "Q16593456",
+    "imdb": "nm4097785"
   },
   "last_updated": "2026-08-19",
-  "birth_year": 1990
+  "birth_year": 1981
 }

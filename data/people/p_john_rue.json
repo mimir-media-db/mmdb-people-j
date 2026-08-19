@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_john_rue",
+  "name": "John Rue",
+  "external_ids": {
+    "wikidata": "Q111626541",
+    "imdb": "nm1600051"
+  },
+  "last_updated": "2026-08-19"
+}
