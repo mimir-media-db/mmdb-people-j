@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_mcguinness",
+  "name": "John McGuinness",
+  "external_ids": {
+    "wikidata": "Q376751",
+    "imdb": "nm3162301"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1972
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_joke_fincioen",
+  "name": "Joke Fincioen",
+  "external_ids": {
+    "wikidata": "Q22350746",
+    "imdb": "nm0277480"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1900
+}

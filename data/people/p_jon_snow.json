@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jon_snow",
+  "name": "Jon Snow",
+  "external_ids": {
+    "wikidata": "Q6271597",
+    "imdb": "nm0811284"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1947
+}

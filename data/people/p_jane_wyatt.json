@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_jane_wyatt",
+  "name": "Jane Wyatt",
+  "external_ids": {
+    "wikidata": "Q234089",
+    "imdb": "nm0943553"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1910,
+  "death_year": 2006
+}

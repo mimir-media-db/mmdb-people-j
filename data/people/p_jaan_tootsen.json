@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jaan_tootsen",
+  "name": "Jaan Tootsen",
+  "external_ids": {
+    "wikidata": "Q16407244",
+    "imdb": "nm3658809"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1975
+}
