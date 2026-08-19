@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_riggins",
+  "name": "John Riggins",
+  "external_ids": {
+    "wikidata": "Q260045",
+    "imdb": "nm1013927"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1949
+}
