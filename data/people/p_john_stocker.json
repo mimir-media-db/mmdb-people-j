@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_john_stocker",
+  "name": "John Stocker",
+  "external_ids": {
+    "wikidata": "Q105076544",
+    "imdb": "nm10739627"
+  },
+  "last_updated": "2026-08-19"
+}
