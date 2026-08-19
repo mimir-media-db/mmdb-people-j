@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_joe_nation",
+  "name": "Joe Nation",
+  "external_ids": {
+    "wikidata": "Q131358494",
+    "imdb": "nm3965649"
+  },
+  "last_updated": "2026-08-19"
+}

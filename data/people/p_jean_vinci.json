@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_jean_vinci",
+  "name": "Jean Vinci",
+  "external_ids": {
+    "wikidata": "Q3175060",
+    "imdb": "nm0898826"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1921,
+  "death_year": 2010
+}
