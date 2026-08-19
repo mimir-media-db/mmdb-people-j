@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_john_suits",
+  "name": "John Suits",
+  "external_ids": {
+    "wikidata": "Q113502478",
+    "imdb": "nm2986811"
+  },
+  "last_updated": "2026-08-19"
+}
