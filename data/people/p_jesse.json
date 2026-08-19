@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jesse",
+  "name": "Jesse",
+  "external_ids": {
+    "wikidata": "Q3178728",
+    "imdb": "nm4941533"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1996
+}
