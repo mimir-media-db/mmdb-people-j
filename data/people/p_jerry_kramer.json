@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jerry_kramer",
+  "name": "Jerry Kramer",
+  "external_ids": {
+    "wikidata": "Q547622",
+    "imdb": "nm0469556"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1936
+}

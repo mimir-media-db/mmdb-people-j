@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_joe_pytka",
+  "name": "Joe Pytka",
+  "external_ids": {
+    "wikidata": "Q1691559",
+    "imdb": "nm0701592"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1938
+}
