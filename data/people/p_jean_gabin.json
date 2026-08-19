@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_jean_gabin",
+  "name": "Jean Gabin",
+  "external_ids": {
+    "wikidata": "Q23842",
+    "imdb": "nm0300064"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1904,
+  "death_year": 1976
+}

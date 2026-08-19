@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_joe_alwyn",
+  "name": "Joe Alwyn",
+  "external_ids": {
+    "wikidata": "Q27440303",
+    "imdb": "nm7153679"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1991
+}
