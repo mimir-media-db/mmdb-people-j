@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jeb_stuart",
+  "name": "Jeb Stuart",
+  "external_ids": {
+    "wikidata": "Q1360963",
+    "imdb": "nm0835732"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1956
+}

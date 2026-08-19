@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_posey",
+  "name": "John Posey",
+  "external_ids": {
+    "wikidata": "Q21155088",
+    "imdb": "nm0692663"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1956
+}

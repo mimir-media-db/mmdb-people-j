@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jim_loach",
+  "name": "Jim Loach",
+  "external_ids": {
+    "wikidata": "Q3808351",
+    "imdb": "nm1425385"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1969
+}
