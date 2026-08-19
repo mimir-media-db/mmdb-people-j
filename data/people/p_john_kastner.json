@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_john_kastner",
+  "name": "John Kastner",
+  "external_ids": {
+    "wikidata": "Q16238747",
+    "imdb": "nm0440995"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1945,
+  "death_year": 2019
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_joe_lawlor",
+  "name": "Joe Lawlor",
+  "external_ids": {
+    "wikidata": "Q26832641",
+    "imdb": "nm2614266"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1962
+}

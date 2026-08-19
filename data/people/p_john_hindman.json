@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_hindman",
+  "name": "John Hindman",
+  "external_ids": {
+    "wikidata": "Q15821543",
+    "imdb": "nm1668051"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1999
+}

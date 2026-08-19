@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jeanmarc_vincent",
+  "name": "Jean-Marc Vincent",
+  "external_ids": {
+    "wikidata": "Q39072445",
+    "imdb": "nm1234800"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1949
+}

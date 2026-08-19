@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_reynolds",
+  "name": "John Reynolds",
+  "external_ids": {
+    "wikidata": "Q61763927",
+    "imdb": "nm1259990"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1972
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_joe_jackson",
+  "name": "Joe Jackson",
+  "external_ids": {
+    "wikidata": "Q962103",
+    "imdb": "nm0413690"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1954
+}
