@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_jim_stark",
+  "name": "Jim Stark",
+  "external_ids": {
+    "wikidata": "Q89198445",
+    "imdb": "nm0823196"
+  },
+  "last_updated": "2026-08-19"
+}
