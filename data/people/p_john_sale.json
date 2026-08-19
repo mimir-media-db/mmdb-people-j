@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "id": "p_john_sale",
+  "name": "John Sale",
+  "external_ids": {
+    "wikidata": "Q64964899"
+  },
+  "last_updated": "2026-08-19"
+}

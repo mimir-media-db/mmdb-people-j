@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_jim_morrison",
+  "name": "Jim Morrison",
+  "external_ids": {
+    "wikidata": "Q44301",
+    "imdb": "nm0607186"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1943,
+  "death_year": 1971
+}
