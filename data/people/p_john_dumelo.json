@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_dumelo",
+  "name": "John Dumelo",
+  "external_ids": {
+    "wikidata": "Q16728694",
+    "imdb": "nm3847554"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1984
+}

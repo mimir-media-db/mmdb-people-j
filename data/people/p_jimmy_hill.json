@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_jimmy_hill",
+  "name": "Jimmy Hill",
+  "external_ids": {
+    "wikidata": "Q2608520",
+    "imdb": "nm0384392"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1928,
+  "death_year": 2015
+}

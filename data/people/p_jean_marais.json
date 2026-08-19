@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_jean_marais",
+  "name": "Jean Marais",
+  "external_ids": {
+    "wikidata": "Q168359",
+    "imdb": "nm0544786"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1913,
+  "death_year": 1998
+}

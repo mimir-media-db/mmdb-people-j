@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_craven",
+  "name": "John Craven",
+  "external_ids": {
+    "wikidata": "Q6227523",
+    "imdb": "nm0186616"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1940
+}
