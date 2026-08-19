@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_skoog",
+  "name": "John Skoog",
+  "external_ids": {
+    "wikidata": "Q55258474",
+    "imdb": "nm4443030"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1985
+}

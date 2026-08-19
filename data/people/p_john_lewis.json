@@ -3,8 +3,10 @@
   "id": "p_john_lewis",
   "name": "John Lewis",
   "external_ids": {
-    "wikidata": "Q121035918",
-    "imdb": "nm1290690"
+    "wikidata": "Q353943",
+    "imdb": "nm0507368"
   },
-  "last_updated": "2026-08-18"
+  "last_updated": "2026-08-19",
+  "birth_year": 1920,
+  "death_year": 2001
 }

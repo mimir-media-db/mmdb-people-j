@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jack_laskey",
+  "name": "Jack Laskey",
+  "external_ids": {
+    "wikidata": "Q6113593",
+    "imdb": "nm2713087"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1982
+}
