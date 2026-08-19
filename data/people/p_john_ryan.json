@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_ryan",
+  "name": "John Ryan",
+  "external_ids": {
+    "wikidata": "Q16226164",
+    "imdb": "nm3870098"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1967
+}

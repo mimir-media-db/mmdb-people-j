@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_john_lennon",
+  "name": "John Lennon",
+  "external_ids": {
+    "wikidata": "Q1203",
+    "imdb": "nm0006168"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1940,
+  "death_year": 1980
+}

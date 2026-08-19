@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_john_bush",
+  "name": "John Bush",
+  "external_ids": {
+    "wikidata": "Q2541323",
+    "imdb": "nm2036112"
+  },
+  "last_updated": "2026-08-19"
+}

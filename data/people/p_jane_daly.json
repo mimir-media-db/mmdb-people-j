@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jane_daly",
+  "name": "Jane Daly",
+  "external_ids": {
+    "wikidata": "Q1864504",
+    "imdb": "nm0198450"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1948
+}

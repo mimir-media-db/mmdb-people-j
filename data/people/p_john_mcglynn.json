@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_mcglynn",
+  "name": "John McGlynn",
+  "external_ids": {
+    "wikidata": "Q6247810",
+    "imdb": "nm0569475"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1953
+}
