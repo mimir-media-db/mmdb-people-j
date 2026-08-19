@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jaanus_lekk",
+  "name": "Jaanus Lekk",
+  "external_ids": {
+    "wikidata": "Q125257770",
+    "imdb": "nm12392072"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1969
+}

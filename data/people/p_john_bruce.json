@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_john_bruce",
+  "name": "John Bruce",
+  "external_ids": {
+    "wikidata": "Q87910992",
+    "imdb": "nm0115514"
+  },
+  "last_updated": "2026-08-19"
+}

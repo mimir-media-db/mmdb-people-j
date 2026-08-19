@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_josh_homme",
+  "name": "Josh Homme",
+  "external_ids": {
+    "wikidata": "Q1708504",
+    "imdb": "nm1114236"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1973
+}
