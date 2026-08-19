@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_john_belushi",
+  "name": "John Belushi",
+  "external_ids": {
+    "wikidata": "Q23858",
+    "imdb": "nm0000004"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1949,
+  "death_year": 1982
+}
