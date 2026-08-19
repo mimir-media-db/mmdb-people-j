@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_josh_bear",
+  "name": "Josh Bear",
+  "external_ids": {
+    "wikidata": "Q115210522",
+    "imdb": "nm1774345"
+  },
+  "last_updated": "2026-08-19"
+}

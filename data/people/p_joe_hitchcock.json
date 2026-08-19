@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_joe_hitchcock",
+  "name": "Joe Hitchcock",
+  "external_ids": {
+    "wikidata": "Q26834172",
+    "imdb": "nm1749214"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1983
+}

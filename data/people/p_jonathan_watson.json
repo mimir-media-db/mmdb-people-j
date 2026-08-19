@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jonathan_watson",
+  "name": "Jonathan Watson",
+  "external_ids": {
+    "wikidata": "Q6274724",
+    "imdb": "nm0914732"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1999
+}
