@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_paulsen",
+  "name": "John Paulsen",
+  "external_ids": {
+    "wikidata": "Q21725375",
+    "imdb": "nm0667315"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1963
+}
