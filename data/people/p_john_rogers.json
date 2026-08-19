@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_john_rogers",
+  "name": "John Rogers",
+  "external_ids": {
+    "wikidata": "Q27051151",
+    "imdb": "nm3470808"
+  },
+  "last_updated": "2026-08-19"
+}
