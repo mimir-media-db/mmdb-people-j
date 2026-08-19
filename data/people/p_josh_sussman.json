@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_josh_sussman",
+  "name": "Josh Sussman",
+  "external_ids": {
+    "wikidata": "Q23403",
+    "imdb": "nm0839933"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1983
+}

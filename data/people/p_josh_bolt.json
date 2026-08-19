@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_josh_bolt",
+  "name": "Josh Bolt",
+  "external_ids": {
+    "wikidata": "Q6288675",
+    "imdb": "nm3017284"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1994
+}

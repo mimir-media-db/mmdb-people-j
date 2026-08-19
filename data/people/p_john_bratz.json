@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_john_bratz",
+  "name": "John Bratz",
+  "external_ids": {
+    "wikidata": "Q41236196",
+    "imdb": "nm3398423"
+  },
+  "last_updated": "2026-08-19"
+}

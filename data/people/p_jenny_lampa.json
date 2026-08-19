@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jenny_lampa",
+  "name": "Jenny Lampa",
+  "external_ids": {
+    "wikidata": "Q4989004",
+    "imdb": "nm0483821"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1981
+}
