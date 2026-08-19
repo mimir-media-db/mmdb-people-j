@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_john_barnett",
+  "name": "John Barnett",
+  "external_ids": {
+    "wikidata": "Q4992209",
+    "imdb": "nm2904036"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1802,
+  "death_year": 1890
+}

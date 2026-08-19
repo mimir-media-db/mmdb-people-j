@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jayne_wisener",
+  "name": "Jayne Wisener",
+  "external_ids": {
+    "wikidata": "Q387132",
+    "imdb": "nm2479184"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1987
+}

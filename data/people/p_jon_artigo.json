@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_jon_artigo",
+  "name": "Jon Artigo",
+  "external_ids": {
+    "wikidata": "Q113388906",
+    "imdb": "nm1089011"
+  },
+  "last_updated": "2026-08-19"
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_joe_rogan",
+  "name": "Joe Rogan",
+  "external_ids": {
+    "wikidata": "Q2718421",
+    "imdb": "nm0736579"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1967
+}
