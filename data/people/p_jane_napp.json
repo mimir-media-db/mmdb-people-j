@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_jane_napp",
+  "name": "Jane Napp",
+  "external_ids": {
+    "wikidata": "Q124329600",
+    "imdb": "nm9433916"
+  },
+  "last_updated": "2026-08-19"
+}
