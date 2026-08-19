@@ -1,9 +1,10 @@
 {
   "schema_version": 1,
-  "id": "p_jeremy_thomas",
-  "name": "Jeremy Thomas",
+  "id": "p_jeon_baesoo",
+  "name": "Jeon Bae-soo",
   "external_ids": {
-    "wikidata": "Q11252279"
+    "wikidata": "Q22974857",
+    "imdb": "nm3482978"
   },
   "last_updated": "2026-08-19",
   "birth_year": 1970
