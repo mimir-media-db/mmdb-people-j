@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_john_churchill",
+  "name": "John Churchill",
+  "external_ids": {
+    "wikidata": "Q111901447",
+    "imdb": "nm0161446"
+  },
+  "last_updated": "2026-08-19"
+}

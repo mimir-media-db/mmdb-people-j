@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_hollingworth",
+  "name": "John Hollingworth",
+  "external_ids": {
+    "wikidata": "Q16239937",
+    "imdb": "nm3227473"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1981
+}
