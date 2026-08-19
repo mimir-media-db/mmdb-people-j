@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jane_wiedlin",
+  "name": "Jane Wiedlin",
+  "external_ids": {
+    "wikidata": "Q440668",
+    "imdb": "nm0005553"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1958
+}
