@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_carlos",
+  "name": "John Carlos",
+  "external_ids": {
+    "wikidata": "Q370729",
+    "imdb": "nm0137758"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1945
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_byner",
+  "name": "John Byner",
+  "external_ids": {
+    "wikidata": "Q3181151",
+    "imdb": "nm0125956"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1938
+}

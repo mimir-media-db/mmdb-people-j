@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_jack_wrangler",
+  "name": "Jack Wrangler",
+  "external_ids": {
+    "wikidata": "Q947588",
+    "imdb": "nm0830293"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1946,
+  "death_year": 2009
+}
