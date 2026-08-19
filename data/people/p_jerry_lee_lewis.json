@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_jerry_lee_lewis",
+  "name": "Jerry Lee Lewis",
+  "external_ids": {
+    "wikidata": "Q202729",
+    "imdb": "nm0507350"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1935,
+  "death_year": 2022
+}
