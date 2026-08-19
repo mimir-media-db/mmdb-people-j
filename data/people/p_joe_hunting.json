@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_joe_hunting",
+  "name": "Joe Hunting",
+  "external_ids": {
+    "wikidata": "Q135699998",
+    "imdb": "nm13200117"
+  },
+  "last_updated": "2026-08-19"
+}

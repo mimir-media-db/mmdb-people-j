@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_john_crow",
+  "name": "John Crow",
+  "external_ids": {
+    "wikidata": "Q111995905",
+    "imdb": "nm2061352"
+  },
+  "last_updated": "2026-08-19"
+}
