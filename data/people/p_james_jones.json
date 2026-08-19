@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_james_jones",
+  "name": "James Jones",
+  "external_ids": {
+    "wikidata": "Q22278434",
+    "imdb": "nm4155251"
+  },
+  "last_updated": "2026-08-19"
+}

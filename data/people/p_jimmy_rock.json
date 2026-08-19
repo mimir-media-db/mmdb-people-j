@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jimmy_rock",
+  "name": "Jimmy Rock",
+  "external_ids": {
+    "wikidata": "Q139575757",
+    "imdb": "nm13554906"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1999
+}

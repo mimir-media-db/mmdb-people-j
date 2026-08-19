@@ -3,8 +3,9 @@
   "id": "p_james_bird",
   "name": "James Bird",
   "external_ids": {
-    "wikidata": "Q114877036",
+    "wikidata": "Q116214063",
     "imdb": "nm4589954"
   },
-  "last_updated": "2026-08-19"
+  "last_updated": "2026-08-19",
+  "birth_year": 1979
 }

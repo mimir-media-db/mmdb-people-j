@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_s_lyons",
+  "name": "John S. Lyons",
+  "external_ids": {
+    "wikidata": "Q93724490",
+    "imdb": "nm0529092"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1969
+}

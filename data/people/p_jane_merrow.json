@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jane_merrow",
+  "name": "Jane Merrow",
+  "external_ids": {
+    "wikidata": "Q6152566",
+    "imdb": "nm0581457"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1941
+}

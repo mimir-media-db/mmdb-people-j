@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_mulaney",
+  "name": "John Mulaney",
+  "external_ids": {
+    "wikidata": "Q6249723",
+    "imdb": "nm1825214"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1982
+}
