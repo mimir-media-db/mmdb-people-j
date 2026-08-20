@@ -3,8 +3,9 @@
   "id": "p_joe_winston",
   "name": "Joe Winston",
   "external_ids": {
-    "wikidata": "Q131363910",
-    "imdb": "nm1926236"
+    "wikidata": "Q6213036"
   },
-  "last_updated": "2026-08-19"
+  "last_updated": "2026-08-20",
+  "birth_year": 1943,
+  "death_year": 2021
 }
