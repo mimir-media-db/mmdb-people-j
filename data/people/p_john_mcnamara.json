@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_mcnamara",
+  "name": "John McNamara",
+  "external_ids": {
+    "wikidata": "Q6248205",
+    "imdb": "nm0573695"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1962
+}
