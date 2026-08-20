@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_abram",
+  "name": "John Abram",
+  "external_ids": {
+    "wikidata": "Q6218085",
+    "imdb": "nm0009087"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1958
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_byrum",
+  "name": "John Byrum",
+  "external_ids": {
+    "wikidata": "Q1699476",
+    "imdb": "nm0126440"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1947
+}

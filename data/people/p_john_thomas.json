@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_thomas",
+  "name": "John Thomas",
+  "external_ids": {
+    "wikidata": "Q3182596",
+    "imdb": "nm0859049"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1952
+}

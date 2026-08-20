@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_john_brownjohn",
+  "name": "John Brownjohn",
+  "external_ids": {
+    "wikidata": "Q16994421",
+    "imdb": "nm0115224"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1929,
+  "death_year": 2020
+}

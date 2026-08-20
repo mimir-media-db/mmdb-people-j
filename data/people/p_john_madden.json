@@ -3,9 +3,10 @@
   "id": "p_john_madden",
   "name": "John Madden",
   "external_ids": {
-    "wikidata": "Q51516",
-    "imdb": "nm0006960"
+    "wikidata": "Q1345694",
+    "imdb": "nm0534603"
   },
-  "last_updated": "2026-08-19",
-  "birth_year": 1949
+  "last_updated": "2026-08-20",
+  "birth_year": 1936,
+  "death_year": 2021
 }

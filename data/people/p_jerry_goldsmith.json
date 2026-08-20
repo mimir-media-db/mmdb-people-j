@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_jerry_goldsmith",
+  "name": "Jerry Goldsmith",
+  "external_ids": {
+    "wikidata": "Q235077",
+    "imdb": "nm0000025"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1929,
+  "death_year": 2004
+}
