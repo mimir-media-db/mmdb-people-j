@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_romano",
+  "name": "John Romano",
+  "external_ids": {
+    "wikidata": "Q20888417",
+    "imdb": "nm0738908"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1948
+}
