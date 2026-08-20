@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_coda",
+  "name": "John Coda",
+  "external_ids": {
+    "wikidata": "Q183243",
+    "imdb": "nm0168430"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1999
+}

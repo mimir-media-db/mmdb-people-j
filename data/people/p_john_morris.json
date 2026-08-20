@@ -3,9 +3,10 @@
   "id": "p_john_morris",
   "name": "John Morris",
   "external_ids": {
-    "wikidata": "Q21501583",
-    "imdb": "nm1898234"
+    "wikidata": "Q203188",
+    "imdb": "nm0606657"
   },
   "last_updated": "2026-08-20",
-  "birth_year": 1969
+  "birth_year": 1926,
+  "death_year": 2018
 }
