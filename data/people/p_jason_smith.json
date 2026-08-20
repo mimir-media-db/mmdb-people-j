@@ -3,8 +3,9 @@
   "id": "p_jason_smith",
   "name": "Jason Smith",
   "external_ids": {
-    "wikidata": "Q24705646",
-    "imdb": "nm8102194"
+    "wikidata": "Q282341",
+    "imdb": "nm1321788"
   },
-  "last_updated": "2026-08-19"
+  "last_updated": "2026-08-20",
+  "birth_year": 1984
 }
