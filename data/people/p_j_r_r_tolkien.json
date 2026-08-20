@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_j_r_r_tolkien",
+  "name": "J. R. R. Tolkien",
+  "external_ids": {
+    "wikidata": "Q892",
+    "imdb": "nm0866058"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1892,
+  "death_year": 1973
+}
