@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_welsman",
+  "name": "John Welsman",
+  "external_ids": {
+    "wikidata": "Q6263473",
+    "imdb": "nm0920614"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1954
+}
