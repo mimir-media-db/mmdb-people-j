@@ -1,9 +1,11 @@
 {
   "schema_version": 1,
   "id": "p_jakub_sevcik",
-  "name": "Jakub Ševčík",
+  "name": "Jakub Sevcik",
   "external_ids": {
-    "wikidata": "Q132795182"
+    "wikidata": "Q104852835",
+    "imdb": "nm3358272"
   },
-  "last_updated": "2026-08-19"
+  "last_updated": "2026-08-20",
+  "birth_year": 1984
 }
