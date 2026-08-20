@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_johanne_pregent",
+  "name": "Johanne Prégent",
+  "external_ids": {
+    "wikidata": "Q3180701",
+    "imdb": "nm0699519"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1949
+}
