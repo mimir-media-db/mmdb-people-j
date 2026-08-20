@@ -3,8 +3,9 @@
   "id": "p_jack_white",
   "name": "Jack White",
   "external_ids": {
-    "wikidata": "Q112981014",
-    "imdb": "nm8902206"
+    "wikidata": "Q272031",
+    "imdb": "nm1226421"
   },
-  "last_updated": "2026-08-19"
+  "last_updated": "2026-08-20",
+  "birth_year": 1975
 }
