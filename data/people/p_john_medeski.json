@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_medeski",
+  "name": "John Medeski",
+  "external_ids": {
+    "wikidata": "Q719672",
+    "imdb": "nm0575542"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1965
+}

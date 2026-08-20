@@ -3,9 +3,8 @@
   "id": "p_john_turner",
   "name": "John Turner",
   "external_ids": {
-    "wikidata": "Q128568"
+    "wikidata": "Q117860696",
+    "imdb": "nm2312350"
   },
-  "last_updated": "2026-08-20",
-  "birth_year": 1929,
-  "death_year": 2020
+  "last_updated": "2026-08-20"
 }
