@@ -3,8 +3,10 @@
   "id": "p_john_carter",
   "name": "John Carter",
   "external_ids": {
-    "wikidata": "Q121365453",
-    "imdb": "nm15108179"
+    "wikidata": "Q1699559",
+    "imdb": "nm0141715"
   },
-  "last_updated": "2026-08-19"
+  "last_updated": "2026-08-20",
+  "birth_year": 1927,
+  "death_year": 2015
 }

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_john_hill",
+  "name": "John Hill",
+  "external_ids": {
+    "wikidata": "Q6239287",
+    "imdb": "nm0384398"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1944,
+  "death_year": 2016
+}

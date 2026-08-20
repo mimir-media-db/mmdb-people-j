@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_joe_forte",
+  "name": "Joe Forte",
+  "external_ids": {
+    "wikidata": "Q6209882",
+    "imdb": "nm2147635"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1974
+}

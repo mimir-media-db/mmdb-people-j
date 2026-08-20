@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jan_hammer",
+  "name": "Jan Hammer",
+  "external_ids": {
+    "wikidata": "Q366671",
+    "imdb": "nm0006122"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1948
+}
