@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_joe_conason",
+  "name": "Joe Conason",
+  "external_ids": {
+    "wikidata": "Q6209168",
+    "imdb": "nm1517463"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1954
+}

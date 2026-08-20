@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_shiban",
+  "name": "John Shiban",
+  "external_ids": {
+    "wikidata": "Q10307893",
+    "imdb": "nm0793062"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1952
+}
