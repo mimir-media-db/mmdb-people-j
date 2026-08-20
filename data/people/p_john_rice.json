@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_john_rice",
+  "name": "John Rice",
+  "external_ids": {
+    "wikidata": "Q16885569",
+    "imdb": "nm0723470"
+  },
+  "last_updated": "2026-08-20"
+}
