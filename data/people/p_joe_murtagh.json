@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_joe_murtagh",
+  "name": "Joe Murtagh",
+  "external_ids": {
+    "wikidata": "Q125499242",
+    "imdb": "nm6467361"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1990
+}
