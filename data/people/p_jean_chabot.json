@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_jean_chabot",
+  "name": "Jean Chabot",
+  "external_ids": {
+    "wikidata": "Q3171185",
+    "imdb": "nm0149307"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1945,
+  "death_year": 2003
+}
