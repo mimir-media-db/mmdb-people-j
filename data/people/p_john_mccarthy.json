@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_mccarthy",
+  "name": "John McCarthy",
+  "external_ids": {
+    "wikidata": "Q16194192",
+    "imdb": "nm0003553"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1961
+}
