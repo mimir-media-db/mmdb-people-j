@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_chambers",
+  "name": "John Chambers",
+  "external_ids": {
+    "wikidata": "Q95263246",
+    "imdb": "nm1753282"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1967
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jovanotti",
+  "name": "Jovanotti",
+  "external_ids": {
+    "wikidata": "Q505455",
+    "imdb": "nm0431232"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1966
+}
