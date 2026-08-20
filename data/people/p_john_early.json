@@ -3,7 +3,9 @@
   "id": "p_john_early",
   "name": "John Early",
   "external_ids": {
-    "wikidata": "Q131983552"
+    "wikidata": "Q16241504",
+    "imdb": "nm4696553"
   },
-  "last_updated": "2026-08-20"
+  "last_updated": "2026-08-20",
+  "birth_year": 1988
 }
