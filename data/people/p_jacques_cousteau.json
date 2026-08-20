@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_jacques_cousteau",
+  "name": "Jacques Cousteau",
+  "external_ids": {
+    "wikidata": "Q83233",
+    "imdb": "nm0184150"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1910,
+  "death_year": 1997
+}

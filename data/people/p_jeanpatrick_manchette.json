@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_jeanpatrick_manchette",
+  "name": "Jean-Patrick Manchette",
+  "external_ids": {
+    "wikidata": "Q301951",
+    "imdb": "nm0541389"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1942,
+  "death_year": 1995
+}

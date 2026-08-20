@@ -1,9 +1,11 @@
 {
   "schema_version": 1,
   "id": "p_jeanfrancois_caissy",
-  "name": "Jean-François Caissy",
+  "name": "Jean-Francois Caissy",
   "external_ids": {
-    "wikidata": "Q124257561"
+    "wikidata": "Q21007680",
+    "imdb": "nm3515993"
   },
-  "last_updated": "2026-08-19"
+  "last_updated": "2026-08-20",
+  "birth_year": 1976
 }

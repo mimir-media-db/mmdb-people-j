@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_joe_sugg",
+  "name": "Joe Sugg",
+  "external_ids": {
+    "wikidata": "Q16762380",
+    "imdb": "nm6701825"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1991
+}
