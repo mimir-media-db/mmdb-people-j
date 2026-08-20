@@ -3,7 +3,9 @@
   "id": "p_jason_moody",
   "name": "Jason Moody",
   "external_ids": {
-    "wikidata": "Q95867270"
+    "wikidata": "Q132277760",
+    "imdb": "nm16643740"
   },
-  "last_updated": "2026-08-20"
+  "last_updated": "2026-08-20",
+  "birth_year": 1993
 }
