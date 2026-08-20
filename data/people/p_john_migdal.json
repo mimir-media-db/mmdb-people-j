@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_migdal",
+  "name": "John Migdal",
+  "external_ids": {
+    "wikidata": "Q51898376",
+    "imdb": "nm0585880"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1970
+}
