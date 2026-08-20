@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_julia_child",
+  "name": "Julia Child",
+  "external_ids": {
+    "wikidata": "Q214477",
+    "imdb": "nm0157463"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1912,
+  "death_year": 2004
+}

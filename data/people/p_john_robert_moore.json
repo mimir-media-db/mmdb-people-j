@@ -3,8 +3,9 @@
   "id": "p_john_robert_moore",
   "name": "John Robert Moore",
   "external_ids": {
-    "wikidata": "Q130527412",
-    "imdb": "nm3678137"
+    "wikidata": "Q6255128"
   },
-  "last_updated": "2026-08-19"
+  "last_updated": "2026-08-20",
+  "birth_year": 1890,
+  "death_year": 1973
 }
