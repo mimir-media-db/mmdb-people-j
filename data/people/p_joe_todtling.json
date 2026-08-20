@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_joe_todtling",
+  "name": "Joe Tödtling",
+  "external_ids": {
+    "wikidata": "Q15709664",
+    "imdb": "nm4242523"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1979
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_johnny_hawkes",
+  "name": "Johnny Hawkes",
+  "external_ids": {
+    "wikidata": "Q64362013",
+    "imdb": "nm1027228"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1978
+}

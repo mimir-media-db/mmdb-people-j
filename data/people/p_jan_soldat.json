@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jan_soldat",
+  "name": "Jan Soldat",
+  "external_ids": {
+    "wikidata": "Q1682238",
+    "imdb": "nm3468695"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1984
+}
