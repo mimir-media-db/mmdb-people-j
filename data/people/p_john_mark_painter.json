@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_mark_painter",
+  "name": "John Mark Painter",
+  "external_ids": {
+    "wikidata": "Q6246754",
+    "imdb": "nm1842652"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1966
+}
