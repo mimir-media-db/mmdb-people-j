@@ -1,12 +1,9 @@
 {
   "schema_version": 1,
   "id": "p_jiri_vojta",
-  "name": "Jiří Vojta",
+  "name": "Jiri Vojta",
   "external_ids": {
-    "wikidata": "Q57039351",
-    "imdb": "nm0901298"
+    "wikidata": "Q95873142"
   },
-  "last_updated": "2026-08-20",
-  "birth_year": 1929,
-  "death_year": 2018
+  "last_updated": "2026-08-20"
 }

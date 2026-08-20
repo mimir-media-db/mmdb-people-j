@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jeff_loveness",
+  "name": "Jeff Loveness",
+  "external_ids": {
+    "wikidata": "Q93394819",
+    "imdb": "nm3278218"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1989
+}
