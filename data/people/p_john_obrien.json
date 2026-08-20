@@ -3,9 +3,10 @@
   "id": "p_john_obrien",
   "name": "John O'Brien",
   "external_ids": {
-    "wikidata": "Q15490881",
-    "imdb": "nm0639618"
+    "wikidata": "Q1701277",
+    "imdb": "nm0639619"
   },
   "last_updated": "2026-08-20",
-  "birth_year": 1961
+  "birth_year": 1957,
+  "death_year": 1994
 }
