@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_kamps",
+  "name": "John Kamps",
+  "external_ids": {
+    "wikidata": "Q12838215",
+    "imdb": "nm0436960"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1952
+}
