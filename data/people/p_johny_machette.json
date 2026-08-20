@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_johny_machette",
+  "name": "Johny Machette",
+  "external_ids": {
+    "wikidata": "Q15249826",
+    "imdb": "nm8246535"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1992
+}
