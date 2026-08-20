@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jojo_moyes",
+  "name": "Jojo Moyes",
+  "external_ids": {
+    "wikidata": "Q4299894",
+    "imdb": "nm4424713"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1969
+}
