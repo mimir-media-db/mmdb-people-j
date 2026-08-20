@@ -3218,7 +3218,7 @@
   {
     "id": "p_jacob_batalon",
     "name": "Jacob Batalon",
-    "birth_year": 1996,
+    "birth_year": 1995,
     "path": "data/people/p_jacob_batalon.json"
   },
   {
@@ -7885,6 +7885,12 @@
     "path": "data/people/p_jakub_hajnik.json"
   },
   {
+    "id": "p_jakub_haubert",
+    "name": "Jakub Haubert",
+    "birth_year": 1993,
+    "path": "data/people/p_jakub_haubert.json"
+  },
+  {
     "id": "p_jakub_hejdanek",
     "name": "Jakub Hejdánek",
     "birth_year": 1982,
@@ -8293,6 +8299,12 @@
     "path": "data/people/p_jakub_rataj.json"
   },
   {
+    "id": "p_jakub_rezny",
+    "name": "Jakub Režný",
+    "birth_year": 1981,
+    "path": "data/people/p_jakub_rezny.json"
+  },
+  {
     "id": "p_jakub_roll",
     "name": "Jakub Roll",
     "path": "data/people/p_jakub_roll.json"
@@ -8483,6 +8495,12 @@
     "name": "Jakub Voráček",
     "birth_year": 1989,
     "path": "data/people/p_jakub_voracek.json"
+  },
+  {
+    "id": "p_jakub_votypka",
+    "name": "Jakub Votýpka",
+    "birth_year": 1995,
+    "path": "data/people/p_jakub_votypka.json"
   },
   {
     "id": "p_jakub_wagner",
@@ -10823,7 +10841,6 @@
   {
     "id": "p_james_m_johnston",
     "name": "James M. Johnston",
-    "birth_year": 1939,
     "path": "data/people/p_james_m_johnston.json"
   },
   {
@@ -20197,6 +20214,12 @@
     "path": "data/people/p_jared_buchanan.json"
   },
   {
+    "id": "p_jared_bush",
+    "name": "Jared Bush",
+    "birth_year": 1974,
+    "path": "data/people/p_jared_bush.json"
+  },
+  {
     "id": "p_jared_cohn",
     "name": "Jared Cohn",
     "birth_year": 1999,
@@ -21031,6 +21054,11 @@
     "name": "Jaroslav Hromádka",
     "birth_year": 1903,
     "path": "data/people/p_jaroslav_hromadka.json"
+  },
+  {
+    "id": "p_jaroslav_hruska",
+    "name": "Jaroslav Hruška",
+    "path": "data/people/p_jaroslav_hruska.json"
   },
   {
     "id": "p_jaroslav_hula",
@@ -24998,6 +25026,12 @@
     "name": "Javier Rioyo Jambrina",
     "birth_year": 1952,
     "path": "data/people/p_javier_rioyo_jambrina.json"
+  },
+  {
+    "id": "p_javier_ruescas",
+    "name": "Javier Ruescas",
+    "birth_year": 1987,
+    "path": "data/people/p_javier_ruescas.json"
   },
   {
     "id": "p_javier_ruiz_caldera",
@@ -33618,6 +33652,11 @@
     "id": "p_jefferson_yaw_frempongmanson",
     "name": "Jefferson Yaw Frempong-Manson",
     "path": "data/people/p_jefferson_yaw_frempongmanson.json"
+  },
+  {
+    "id": "p_jeffery_alan_jones",
+    "name": "Jeffery Alan Jones",
+    "path": "data/people/p_jeffery_alan_jones.json"
   },
   {
     "id": "p_jeffery_beach",
@@ -48031,7 +48070,7 @@
   {
     "id": "p_jiri_krizan",
     "name": "Jiří Křižan",
-    "birth_year": 1941,
+    "birth_year": 1997,
     "path": "data/people/p_jiri_krizan.json"
   },
   {
@@ -48155,6 +48194,7 @@
   {
     "id": "p_jiri_matousek",
     "name": "Jiří Matoušek",
+    "birth_year": 1991,
     "path": "data/people/p_jiri_matousek.json"
   },
   {
@@ -50603,6 +50643,12 @@
     "name": "Joan Martí Mir",
     "birth_year": 1999,
     "path": "data/people/p_joan_marti_mir.json"
+  },
+  {
+    "id": "p_joan_martorell_adrover",
+    "name": "Joan Martorell Adrover",
+    "birth_year": 1975,
+    "path": "data/people/p_joan_martorell_adrover.json"
   },
   {
     "id": "p_joan_massotkleiner",
@@ -57387,7 +57433,7 @@
   {
     "id": "p_johannes_haukur_johannesson",
     "name": "Jóhannes Haukur Jóhannesson",
-    "birth_year": 1980,
+    "birth_year": 1979,
     "path": "data/people/p_johannes_haukur_johannesson.json"
   },
   {
@@ -69348,6 +69394,11 @@
     "path": "data/people/p_jonny_polonsky.json"
   },
   {
+    "id": "p_jonny_richter",
+    "name": "Jonny Richter",
+    "path": "data/people/p_jonny_richter.json"
+  },
+  {
     "id": "p_jonny_speers",
     "name": "Jonny Speers",
     "path": "data/people/p_jonny_speers.json"
@@ -75257,6 +75308,12 @@
     "name": "Josefína Krycnerová",
     "birth_year": 2011,
     "path": "data/people/p_josefina_krycnerova.json"
+  },
+  {
+    "id": "p_josefina_licitra",
+    "name": "Josefina Licitra",
+    "birth_year": 1974,
+    "path": "data/people/p_josefina_licitra.json"
   },
   {
     "id": "p_josefina_lopez",
@@ -83312,6 +83369,12 @@
     "path": "data/people/p_judy_hofflund.json"
   },
   {
+    "id": "p_judy_horney",
+    "name": "Judy Horney",
+    "birth_year": 1978,
+    "path": "data/people/p_judy_horney.json"
+  },
+  {
     "id": "p_judy_irving",
     "name": "Judy Irving",
     "birth_year": 1945,
@@ -85041,6 +85104,11 @@
     "name": "Júlia Mentes",
     "birth_year": 1990,
     "path": "data/people/p_julia_mentes.json"
+  },
+  {
+    "id": "p_julia_meyer",
+    "name": "Julia Meyer",
+    "path": "data/people/p_julia_meyer.json"
   },
   {
     "id": "p_julia_molins",
@@ -92854,7 +92922,7 @@
   {
     "id": "p_justine_waddell",
     "name": "Justine Waddell",
-    "birth_year": 1976,
+    "birth_year": 1975,
     "path": "data/people/p_justine_waddell.json"
   },
   {
