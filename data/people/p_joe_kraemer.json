@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_joe_kraemer",
+  "name": "Joe Kraemer",
+  "external_ids": {
+    "wikidata": "Q3180103",
+    "imdb": "nm0469145"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1971
+}
