@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_johnny_jewel",
+  "name": "Johnny Jewel",
+  "external_ids": {
+    "wikidata": "Q16730334",
+    "imdb": "nm5710807"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1974
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_jaco_pastorius",
+  "name": "Jaco Pastorius",
+  "external_ids": {
+    "wikidata": "Q211136",
+    "imdb": "nm0665141"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1951,
+  "death_year": 1987
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_james_randi",
+  "name": "James Randi",
+  "external_ids": {
+    "wikidata": "Q294918",
+    "imdb": "nm0709791"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1928,
+  "death_year": 2020
+}

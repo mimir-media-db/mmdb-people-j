@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jerry_lane",
+  "name": "Jerry Lane",
+  "external_ids": {
+    "wikidata": "Q6183942"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1926,
+  "death_year": 1988
+}

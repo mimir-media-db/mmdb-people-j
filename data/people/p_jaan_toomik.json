@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jaan_toomik",
+  "name": "Jaan Toomik",
+  "external_ids": {
+    "wikidata": "Q3737030",
+    "imdb": "nm4060204"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1961
+}

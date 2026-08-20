@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_joby_talbot",
+  "name": "Joby Talbot",
+  "external_ids": {
+    "wikidata": "Q1691004",
+    "imdb": "nm0847926"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1971
+}

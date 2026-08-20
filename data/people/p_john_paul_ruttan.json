@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_paul_ruttan",
+  "name": "John Paul Ruttan",
+  "external_ids": {
+    "wikidata": "Q6252275",
+    "imdb": "nm3198709"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 2001
+}
