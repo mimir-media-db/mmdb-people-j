@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jon_land",
+  "name": "Jon Land",
+  "external_ids": {
+    "wikidata": "Q18157314",
+    "imdb": "nm1633127"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1956
+}
