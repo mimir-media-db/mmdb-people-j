@@ -3,7 +3,9 @@
   "id": "p_jeffrey_brown",
   "name": "Jeffrey Brown",
   "external_ids": {
-    "wikidata": "Q137625767"
+    "wikidata": "Q3026859",
+    "imdb": "nm0113818"
   },
-  "last_updated": "2026-08-20"
+  "last_updated": "2026-08-20",
+  "birth_year": 1975
 }
