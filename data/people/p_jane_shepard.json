@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jane_shepard",
+  "name": "Jane Shepard",
+  "external_ids": {
+    "wikidata": "Q6152745",
+    "imdb": "nm0791630"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1957
+}

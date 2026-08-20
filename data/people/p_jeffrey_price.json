@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jeffrey_price",
+  "name": "Jeffrey Price",
+  "external_ids": {
+    "wikidata": "Q2396165",
+    "imdb": "nm0696949"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1949
+}

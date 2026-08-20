@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_john_dankworth",
+  "name": "John Dankworth",
+  "external_ids": {
+    "wikidata": "Q498897",
+    "imdb": "nm0006023"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1927,
+  "death_year": 2010
+}
