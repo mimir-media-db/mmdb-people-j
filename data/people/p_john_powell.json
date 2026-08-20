@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_powell",
+  "name": "John Powell",
+  "external_ids": {
+    "wikidata": "Q313540",
+    "imdb": "nm0694173"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1963
+}

@@ -3,9 +3,10 @@
   "id": "p_john_hughes",
   "name": "John Hughes",
   "external_ids": {
-    "wikidata": "Q6240287",
-    "imdb": "nm0400696"
+    "wikidata": "Q311263",
+    "imdb": "nm0000455"
   },
   "last_updated": "2026-08-20",
-  "birth_year": 1950
+  "birth_year": 1950,
+  "death_year": 2009
 }

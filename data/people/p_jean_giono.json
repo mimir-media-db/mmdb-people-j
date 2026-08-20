@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_jean_giono",
+  "name": "Jean Giono",
+  "external_ids": {
+    "wikidata": "Q177411",
+    "imdb": "nm0320274"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1895,
+  "death_year": 1970
+}
