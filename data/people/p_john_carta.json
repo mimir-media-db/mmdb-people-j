@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_carta",
+  "name": "John Carta",
+  "external_ids": {
+    "wikidata": "Q3809142"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1946,
+  "death_year": 1990
+}
