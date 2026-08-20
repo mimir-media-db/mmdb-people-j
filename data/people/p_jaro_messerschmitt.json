@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "id": "p_jaro_messerschmitt",
+  "name": "Jaro Messerschmitt",
+  "external_ids": {
+    "wikidata": "Q95782888"
+  },
+  "last_updated": "2026-08-20"
+}
