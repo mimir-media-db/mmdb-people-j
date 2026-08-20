@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jerry_lawler",
+  "name": "Jerry Lawler",
+  "external_ids": {
+    "wikidata": "Q345019",
+    "imdb": "nm0492476"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1949
+}

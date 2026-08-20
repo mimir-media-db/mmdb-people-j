@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_5",
+  "name": "John 5",
+  "external_ids": {
+    "wikidata": "Q449658",
+    "imdb": "nm0424118"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1971
+}
