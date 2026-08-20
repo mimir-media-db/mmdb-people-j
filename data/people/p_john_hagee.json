@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_hagee",
+  "name": "John Hagee",
+  "external_ids": {
+    "wikidata": "Q861718",
+    "imdb": "nm0353318"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1940
+}
