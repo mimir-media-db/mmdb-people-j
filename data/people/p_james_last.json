@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_james_last",
+  "name": "James Last",
+  "external_ids": {
+    "wikidata": "Q57213",
+    "imdb": "nm0489904"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1929,
+  "death_year": 2015
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_johnny_mercer",
+  "name": "Johnny Mercer",
+  "external_ids": {
+    "wikidata": "Q363698",
+    "imdb": "nm0006197"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1909,
+  "death_year": 1976
+}

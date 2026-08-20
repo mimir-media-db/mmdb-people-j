@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_jean_anouilh",
+  "name": "Jean Anouilh",
+  "external_ids": {
+    "wikidata": "Q179025",
+    "imdb": "nm0030478"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1910,
+  "death_year": 1987
+}
