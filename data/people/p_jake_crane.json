@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_jake_crane",
+  "name": "Jake Crane",
+  "external_ids": {
+    "wikidata": "Q115480418",
+    "imdb": "nm3419858"
+  },
+  "last_updated": "2026-08-20"
+}
