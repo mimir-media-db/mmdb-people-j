@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_jesse_owens",
+  "name": "Jesse Owens",
+  "external_ids": {
+    "wikidata": "Q52651",
+    "imdb": "nm0654389"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1913,
+  "death_year": 1980
+}

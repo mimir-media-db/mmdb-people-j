@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jane_turner",
+  "name": "Jane Turner",
+  "external_ids": {
+    "wikidata": "Q6152857",
+    "imdb": "nm0877613"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1960
+}
