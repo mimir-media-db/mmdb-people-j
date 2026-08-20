@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_josh_singer",
+  "name": "Josh Singer",
+  "external_ids": {
+    "wikidata": "Q6289383",
+    "imdb": "nm1802857"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1971
+}
