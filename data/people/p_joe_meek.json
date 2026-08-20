@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_joe_meek",
+  "name": "Joe Meek",
+  "external_ids": {
+    "wikidata": "Q741007",
+    "imdb": "nm0576089"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1929,
+  "death_year": 1967
+}
