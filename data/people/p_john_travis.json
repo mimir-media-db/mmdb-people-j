@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_john_travis",
+  "name": "John Travis",
+  "external_ids": {
+    "wikidata": "Q10307900",
+    "imdb": "nm0871401"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1942,
+  "death_year": 2017
+}

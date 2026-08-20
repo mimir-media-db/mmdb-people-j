@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jostein_gaarder",
+  "name": "Jostein Gaarder",
+  "external_ids": {
+    "wikidata": "Q185548",
+    "imdb": "nm0299907"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1952
+}
