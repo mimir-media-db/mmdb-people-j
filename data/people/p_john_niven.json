@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_niven",
+  "name": "John Niven",
+  "external_ids": {
+    "wikidata": "Q743703",
+    "imdb": "nm3480267"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1965
+}

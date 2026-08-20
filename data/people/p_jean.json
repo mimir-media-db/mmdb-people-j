@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jean",
+  "name": "Jean",
+  "external_ids": {
+    "wikidata": "Q44709",
+    "imdb": "nm0325799"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1951
+}

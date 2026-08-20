@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_banville",
+  "name": "John Banville",
+  "external_ids": {
+    "wikidata": "Q313077",
+    "imdb": "nm0052581"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1945
+}
