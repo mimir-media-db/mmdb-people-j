@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jean_mallet",
+  "name": "Jean Mallet",
+  "external_ids": {
+    "wikidata": "Q30118046",
+    "imdb": "nm1128840"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1952
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_jean_sibelius",
+  "name": "Jean Sibelius",
+  "external_ids": {
+    "wikidata": "Q45682",
+    "imdb": "nm0006292"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1865,
+  "death_year": 1957
+}

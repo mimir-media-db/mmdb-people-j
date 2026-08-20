@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jon_day",
+  "name": "Jon Day",
+  "external_ids": {
+    "wikidata": "Q85501267",
+    "imdb": "nm1463043"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1981
+}
