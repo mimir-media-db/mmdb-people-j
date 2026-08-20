@@ -853,6 +853,12 @@
     "path": "data/people/p_jaber_jokhadar.json"
   },
   {
+    "id": "p_jaber_qassemali",
+    "name": "Jaber QassemAli",
+    "birth_year": 1962,
+    "path": "data/people/p_jaber_qassemali.json"
+  },
+  {
     "id": "p_jabez_olssen",
     "name": "Jabez Olssen",
     "birth_year": 1975,
@@ -3476,6 +3482,7 @@
   {
     "id": "p_jacob_mller",
     "name": "Jacob Møller",
+    "birth_year": 1979,
     "path": "data/people/p_jacob_mller.json"
   },
   {
@@ -3564,6 +3571,12 @@
     "name": "Jacob Scipio",
     "birth_year": 1993,
     "path": "data/people/p_jacob_scipio.json"
+  },
+  {
+    "id": "p_jacob_shea",
+    "name": "Jacob Shea",
+    "birth_year": 1999,
+    "path": "data/people/p_jacob_shea.json"
   },
   {
     "id": "p_jacob_skyggebjerg",
@@ -4791,6 +4804,11 @@
     "name": "Jacques Prévert",
     "birth_year": 1900,
     "path": "data/people/p_jacques_prevert.json"
+  },
+  {
+    "id": "p_jacques_reboud",
+    "name": "Jacques Reboud",
+    "path": "data/people/p_jacques_reboud.json"
   },
   {
     "id": "p_jacques_richard",
@@ -6406,6 +6424,12 @@
     "path": "data/people/p_jairo_eduardo_carrillo.json"
   },
   {
+    "id": "p_jairo_perera",
+    "name": "Jairo Perera",
+    "birth_year": 1974,
+    "path": "data/people/p_jairo_perera.json"
+  },
+  {
     "id": "p_jairus_aquino",
     "name": "Jairus Aquino",
     "birth_year": 1999,
@@ -7468,6 +7492,7 @@
   {
     "id": "p_jakub_cech",
     "name": "Jakub Čech",
+    "birth_year": 1985,
     "path": "data/people/p_jakub_cech.json"
   },
   {
@@ -8238,6 +8263,11 @@
     "name": "Jakub Železný",
     "birth_year": 1973,
     "path": "data/people/p_jakub_zelezny.json"
+  },
+  {
+    "id": "p_jakub_zelnicek",
+    "name": "Jakub Zelníček",
+    "path": "data/people/p_jakub_zelnicek.json"
   },
   {
     "id": "p_jakub_zindulka",
@@ -10286,7 +10316,7 @@
   {
     "id": "p_james_lance",
     "name": "James Lance",
-    "birth_year": 1974,
+    "birth_year": 1975,
     "path": "data/people/p_james_lance.json"
   },
   {
@@ -14610,8 +14640,8 @@
   },
   {
     "id": "p_jan_novak",
-    "name": "Jan Novák",
-    "birth_year": 1953,
+    "name": "Ján Novák",
+    "birth_year": 1949,
     "path": "data/people/p_jan_novak.json"
   },
   {
@@ -14824,6 +14854,12 @@
     "name": "Jan Pohl",
     "birth_year": 1982,
     "path": "data/people/p_jan_pohl.json"
+  },
+  {
+    "id": "p_jan_poldervaart",
+    "name": "Jan Poldervaart",
+    "birth_year": 1964,
+    "path": "data/people/p_jan_poldervaart.json"
   },
   {
     "id": "p_jan_ponocny",
@@ -15223,7 +15259,7 @@
   {
     "id": "p_jan_stehlik",
     "name": "Jan Stehlík",
-    "birth_year": 1963,
+    "birth_year": 1976,
     "path": "data/people/p_jan_stehlik.json"
   },
   {
@@ -16000,6 +16036,12 @@
     "path": "data/people/p_jana_klukova.json"
   },
   {
+    "id": "p_jana_knitlova",
+    "name": "Jana Knitlová",
+    "birth_year": 1942,
+    "path": "data/people/p_jana_knitlova.json"
+  },
+  {
     "id": "p_jana_kolesarova",
     "name": "Jana Kolesárová",
     "birth_year": 1976,
@@ -16596,7 +16638,7 @@
   {
     "id": "p_jane_alexander",
     "name": "Jane Alexander",
-    "birth_year": 1972,
+    "birth_year": 1939,
     "path": "data/people/p_jane_alexander.json"
   },
   {
@@ -17004,6 +17046,12 @@
     "name": "Jane Velez-Mitchell",
     "birth_year": 1956,
     "path": "data/people/p_jane_velezmitchell.json"
+  },
+  {
+    "id": "p_jane_wagner",
+    "name": "Jane Wagner",
+    "birth_year": 1935,
+    "path": "data/people/p_jane_wagner.json"
   },
   {
     "id": "p_jane_weinstock",
@@ -18605,6 +18653,12 @@
     "path": "data/people/p_janne_langaas.json"
   },
   {
+    "id": "p_janne_lappalainen",
+    "name": "Janne Lappalainen",
+    "birth_year": 1961,
+    "path": "data/people/p_janne_lappalainen.json"
+  },
+  {
     "id": "p_janne_mortil",
     "name": "Janne Mortil",
     "birth_year": 1966,
@@ -19324,6 +19378,12 @@
     "path": "data/people/p_jaques_morelenbaum.json"
   },
   {
+    "id": "p_jaramar",
+    "name": "Jaramar",
+    "birth_year": 1954,
+    "path": "data/people/p_jaramar.json"
+  },
+  {
     "id": "p_jaran_wongsujjaa",
     "name": "Jaran Wongsujjaa",
     "path": "data/people/p_jaran_wongsujjaa.json"
@@ -19866,6 +19926,12 @@
     "id": "p_jaro_messerschmitt",
     "name": "Jaro Messerschmitt",
     "path": "data/people/p_jaro_messerschmitt.json"
+  },
+  {
+    "id": "p_jaro_milko",
+    "name": "Jaro Milko",
+    "birth_year": 1977,
+    "path": "data/people/p_jaro_milko.json"
   },
   {
     "id": "p_jaromir_bosak",
@@ -22102,6 +22168,7 @@
   {
     "id": "p_jason_king",
     "name": "Jason King",
+    "birth_year": 1956,
     "path": "data/people/p_jason_king.json"
   },
   {
@@ -22832,6 +22899,7 @@
   {
     "id": "p_jason_wise",
     "name": "Jason Wise",
+    "birth_year": 1989,
     "path": "data/people/p_jason_wise.json"
   },
   {
@@ -22919,6 +22987,11 @@
     "id": "p_jasper_bernal_palo",
     "name": "Jasper Bernal Palo",
     "path": "data/people/p_jasper_bernal_palo.json"
+  },
+  {
+    "id": "p_jasper_boeke",
+    "name": "Jasper Boeke",
+    "path": "data/people/p_jasper_boeke.json"
   },
   {
     "id": "p_jasper_britton",
@@ -23904,7 +23977,7 @@
   {
     "id": "p_javier_rebollo",
     "name": "Javier Rebollo",
-    "birth_year": 1969,
+    "birth_year": 1950,
     "path": "data/people/p_javier_rebollo.json"
   },
   {
@@ -26563,6 +26636,12 @@
     "path": "data/people/p_jean_pommier.json"
   },
   {
+    "id": "p_jean_prodromides",
+    "name": "Jean Prodromidès",
+    "birth_year": 1927,
+    "path": "data/people/p_jean_prodromides.json"
+  },
+  {
     "id": "p_jean_ray",
     "name": "Jean Ray",
     "birth_year": 1887,
@@ -26849,6 +26928,12 @@
     "id": "p_jeanandre_fourestie",
     "name": "Jean-André Fourestié",
     "path": "data/people/p_jeanandre_fourestie.json"
+  },
+  {
+    "id": "p_jeanandre_yerles",
+    "name": "Jean-André Yerlès",
+    "birth_year": 1968,
+    "path": "data/people/p_jeanandre_yerles.json"
   },
   {
     "id": "p_jeananne_goossen",
@@ -29638,6 +29723,11 @@
     "path": "data/people/p_jeanpaul_gaultier.json"
   },
   {
+    "id": "p_jeanpaul_hurier",
+    "name": "Jean-Paul Hurier",
+    "path": "data/people/p_jeanpaul_hurier.json"
+  },
+  {
     "id": "p_jeanpaul_jaud",
     "name": "Jean-Paul Jaud",
     "birth_year": 1946,
@@ -30562,6 +30652,12 @@
     "path": "data/people/p_jeanyves_chilot.json"
   },
   {
+    "id": "p_jeanyves_dangelo",
+    "name": "Jean-Yves D'Angelo",
+    "birth_year": 1959,
+    "path": "data/people/p_jeanyves_dangelo.json"
+  },
+  {
     "id": "p_jeanyves_gautier",
     "name": "Jean-Yves Gautier",
     "birth_year": 1942,
@@ -31174,7 +31270,6 @@
   {
     "id": "p_jeff_chang",
     "name": "Jeff Chang",
-    "birth_year": 1967,
     "path": "data/people/p_jeff_chang.json"
   },
   {
@@ -33301,6 +33396,12 @@
     "path": "data/people/p_jen_mcgowan.json"
   },
   {
+    "id": "p_jen_miller",
+    "name": "Jen Miller",
+    "birth_year": 1972,
+    "path": "data/people/p_jen_miller.json"
+  },
+  {
     "id": "p_jen_perry",
     "name": "Jen Perry",
     "path": "data/people/p_jen_perry.json"
@@ -34811,7 +34912,7 @@
   {
     "id": "p_jennifer_stone",
     "name": "Jennifer Stone",
-    "birth_year": 1981,
+    "birth_year": 1993,
     "path": "data/people/p_jennifer_stone.json"
   },
   {
@@ -37241,7 +37342,7 @@
   {
     "id": "p_jeremy_luke",
     "name": "Jeremy Luke",
-    "birth_year": 1978,
+    "birth_year": 1977,
     "path": "data/people/p_jeremy_luke.json"
   },
   {
@@ -40151,6 +40252,11 @@
     "path": "data/people/p_jesse_sempels.json"
   },
   {
+    "id": "p_jesse_shortbull",
+    "name": "Jesse Shortbull",
+    "path": "data/people/p_jesse_shortbull.json"
+  },
+  {
     "id": "p_jesse_smith_jr",
     "name": "Jesse Smith, Jr.",
     "path": "data/people/p_jesse_smith_jr.json"
@@ -41078,6 +41184,11 @@
     "id": "p_jessica_peterson",
     "name": "Jessica Peterson",
     "path": "data/people/p_jessica_peterson.json"
+  },
+  {
+    "id": "p_jessica_postigo_paquette",
+    "name": "Jessica Postigo Paquette",
+    "path": "data/people/p_jessica_postigo_paquette.json"
   },
   {
     "id": "p_jessica_powell",
@@ -42568,6 +42679,11 @@
     "path": "data/people/p_jiang_yiyan.json"
   },
   {
+    "id": "p_jiang_yue",
+    "name": "Jiang Yue",
+    "path": "data/people/p_jiang_yue.json"
+  },
+  {
     "id": "p_jianjun_sun",
     "name": "Jianjun Sun",
     "birth_year": 1956,
@@ -43353,6 +43469,12 @@
     "path": "data/people/p_jim_burke.json"
   },
   {
+    "id": "p_jim_burnstein",
+    "name": "Jim Burnstein",
+    "birth_year": 1999,
+    "path": "data/people/p_jim_burnstein.json"
+  },
+  {
     "id": "p_jim_butterworth",
     "name": "Jim Butterworth",
     "path": "data/people/p_jim_butterworth.json"
@@ -43559,7 +43681,7 @@
   {
     "id": "p_jim_finn",
     "name": "Jim Finn",
-    "birth_year": 1976,
+    "birth_year": 1967,
     "path": "data/people/p_jim_finn.json"
   },
   {
@@ -44349,6 +44471,12 @@
     "id": "p_jimena_repetto",
     "name": "Jimena Repetto",
     "path": "data/people/p_jimena_repetto.json"
+  },
+  {
+    "id": "p_jimena_ruiz_echazu",
+    "name": "Jimena Ruiz Echazú",
+    "birth_year": 1981,
+    "path": "data/people/p_jimena_ruiz_echazu.json"
   },
   {
     "id": "p_jimeoin",
@@ -45179,7 +45307,7 @@
   {
     "id": "p_jin_kobayashi",
     "name": "Jin Kobayashi",
-    "birth_year": 1958,
+    "birth_year": 1977,
     "path": "data/people/p_jin_kobayashi.json"
   },
   {
@@ -46227,7 +46355,6 @@
   {
     "id": "p_jiri_matousek",
     "name": "Jiří Matoušek",
-    "birth_year": 1991,
     "path": "data/people/p_jiri_matousek.json"
   },
   {
@@ -46303,6 +46430,12 @@
     "id": "p_jiri_paroubek",
     "name": "Jiří Paroubek",
     "path": "data/people/p_jiri_paroubek.json"
+  },
+  {
+    "id": "p_jiri_pavlica",
+    "name": "Jiří Pavlica",
+    "birth_year": 1953,
+    "path": "data/people/p_jiri_pavlica.json"
   },
   {
     "id": "p_jiri_pecha",
@@ -48216,6 +48349,12 @@
     "path": "data/people/p_joachim_salinger.json"
   },
   {
+    "id": "p_joachim_schluter",
+    "name": "Joachim Schlüter",
+    "birth_year": 1968,
+    "path": "data/people/p_joachim_schluter.json"
+  },
+  {
     "id": "p_joachim_schonfeld",
     "name": "Joachim Schönfeld",
     "birth_year": 1962,
@@ -48997,7 +49136,7 @@
   {
     "id": "p_joanna_cassidy",
     "name": "Joanna Cassidy",
-    "birth_year": 1945,
+    "birth_year": 1944,
     "path": "data/people/p_joanna_cassidy.json"
   },
   {
@@ -49460,7 +49599,7 @@
   {
     "id": "p_joanne_whalley",
     "name": "Joanne Whalley",
-    "birth_year": 1964,
+    "birth_year": 1961,
     "path": "data/people/p_joanne_whalley.json"
   },
   {
@@ -50887,6 +51026,11 @@
     "path": "data/people/p_joe_bini.json"
   },
   {
+    "id": "p_joe_birbiglia",
+    "name": "Joe Birbiglia",
+    "path": "data/people/p_joe_birbiglia.json"
+  },
+  {
     "id": "p_joe_bird",
     "name": "Joe Bird",
     "birth_year": 2007,
@@ -51137,6 +51281,12 @@
     "id": "p_joe_davison",
     "name": "Joe Davison",
     "path": "data/people/p_joe_davison.json"
+  },
+  {
+    "id": "p_joe_dcruz",
+    "name": "Joe D'Cruz",
+    "birth_year": 1968,
+    "path": "data/people/p_joe_dcruz.json"
   },
   {
     "id": "p_joe_deboer",
@@ -53922,6 +54072,11 @@
     "path": "data/people/p_johan_glans.json"
   },
   {
+    "id": "p_johan_gregor_handel",
+    "name": "Johan Gregor Händel",
+    "path": "data/people/p_johan_gregor_handel.json"
+  },
+  {
     "id": "p_johan_grimonprez",
     "name": "Johan Grimonprez",
     "birth_year": 1962,
@@ -55675,6 +55830,12 @@
     "path": "data/people/p_john_ashton.json"
   },
   {
+    "id": "p_john_askew",
+    "name": "John Askew",
+    "birth_year": 1908,
+    "path": "data/people/p_john_askew.json"
+  },
+  {
     "id": "p_john_atterbury",
     "name": "John Atterbury",
     "birth_year": 1941,
@@ -56208,7 +56369,7 @@
   {
     "id": "p_john_butler",
     "name": "John Butler",
-    "birth_year": 1975,
+    "birth_year": 1972,
     "path": "data/people/p_john_butler.json"
   },
   {
@@ -56474,6 +56635,12 @@
     "id": "p_john_charles_meyer",
     "name": "John Charles Meyer",
     "path": "data/people/p_john_charles_meyer.json"
+  },
+  {
+    "id": "p_john_chase",
+    "name": "John Chase",
+    "birth_year": 1906,
+    "path": "data/people/p_john_chase.json"
   },
   {
     "id": "p_john_cheng",
@@ -58283,6 +58450,12 @@
     "path": "data/people/p_john_kapelos.json"
   },
   {
+    "id": "p_john_kare_raake",
+    "name": "John Kåre Raake",
+    "birth_year": 1962,
+    "path": "data/people/p_john_kare_raake.json"
+  },
+  {
     "id": "p_john_karlsen",
     "name": "John Karlsen",
     "birth_year": 1919,
@@ -58309,7 +58482,7 @@
   {
     "id": "p_john_kastner",
     "name": "John Kastner",
-    "birth_year": 1945,
+    "birth_year": 1969,
     "path": "data/people/p_john_kastner.json"
   },
   {
@@ -60191,6 +60364,7 @@
   {
     "id": "p_john_robinson",
     "name": "John Robinson",
+    "birth_year": 1985,
     "path": "data/people/p_john_robinson.json"
   },
   {
@@ -60674,7 +60848,7 @@
   {
     "id": "p_john_stephenson",
     "name": "John Stephenson",
-    "birth_year": 1923,
+    "birth_year": 1961,
     "path": "data/people/p_john_stephenson.json"
   },
   {
@@ -62963,6 +63137,11 @@
     "path": "data/people/p_jon_hewitt.json"
   },
   {
+    "id": "p_jon_hoeber",
+    "name": "Jon Hoeber",
+    "path": "data/people/p_jon_hoeber.json"
+  },
+  {
     "id": "p_jon_hoffman",
     "name": "Jon Hoffman",
     "path": "data/people/p_jon_hoffman.json"
@@ -64142,6 +64321,12 @@
     "path": "data/people/p_jonas_jagermeyr.json"
   },
   {
+    "id": "p_jonas_jonasson",
+    "name": "Jonas Jonasson",
+    "birth_year": 1966,
+    "path": "data/people/p_jonas_jonasson.json"
+  },
+  {
     "id": "p_jonas_karasek",
     "name": "Jonáš Karásek",
     "birth_year": 1976,
@@ -64403,6 +64588,12 @@
     "path": "data/people/p_jonas_sykfont.json"
   },
   {
+    "id": "p_jonas_t_bengtsson",
+    "name": "Jonas T. Bengtsson",
+    "birth_year": 1976,
+    "path": "data/people/p_jonas_t_bengtsson.json"
+  },
+  {
     "id": "p_jonas_talkington",
     "name": "Jonas Talkington",
     "birth_year": 1976,
@@ -64588,6 +64779,11 @@
     "name": "Jonathan Aroch",
     "birth_year": 1951,
     "path": "data/people/p_jonathan_aroch.json"
+  },
+  {
+    "id": "p_jonathan_asser",
+    "name": "Jonathan Asser",
+    "path": "data/people/p_jonathan_asser.json"
   },
   {
     "id": "p_jonathan_auf_der_heide",
@@ -65122,7 +65318,7 @@
   {
     "id": "p_jonathan_goldsmith",
     "name": "Jonathan Goldsmith",
-    "birth_year": 1999,
+    "birth_year": 1938,
     "path": "data/people/p_jonathan_goldsmith.json"
   },
   {
@@ -65197,7 +65393,7 @@
   {
     "id": "p_jonathan_hayes",
     "name": "Jonathan Hayes",
-    "birth_year": 1971,
+    "birth_year": 1962,
     "path": "data/people/p_jonathan_hayes.json"
   },
   {
@@ -65969,6 +66165,12 @@
     "path": "data/people/p_jonathan_slinger.json"
   },
   {
+    "id": "p_jonathan_smith",
+    "name": "Jonathan Smith",
+    "birth_year": 1941,
+    "path": "data/people/p_jonathan_smith.json"
+  },
+  {
     "id": "p_jonathan_sobol",
     "name": "Jonathan Sobol",
     "birth_year": 1989,
@@ -66107,7 +66309,7 @@
   {
     "id": "p_jonathan_tzachor",
     "name": "Jonathan Tzachor",
-    "birth_year": 1900,
+    "birth_year": 1955,
     "path": "data/people/p_jonathan_tzachor.json"
   },
   {
@@ -66662,7 +66864,7 @@
   {
     "id": "p_joo_jinmo",
     "name": "Joo Jin-mo",
-    "birth_year": 1958,
+    "birth_year": 1974,
     "path": "data/people/p_joo_jinmo.json"
   },
   {
@@ -67413,7 +67615,6 @@
   {
     "id": "p_jordan_pacheco",
     "name": "Jordan Pacheco",
-    "birth_year": 1986,
     "path": "data/people/p_jordan_pacheco.json"
   },
   {
@@ -67574,7 +67775,7 @@
   {
     "id": "p_jordan_trovillion",
     "name": "Jordan Trovillion",
-    "birth_year": 1986,
+    "birth_year": 1985,
     "path": "data/people/p_jordan_trovillion.json"
   },
   {
@@ -70814,7 +71015,7 @@
   {
     "id": "p_jose_maria_morales",
     "name": "José María Morales",
-    "birth_year": 1938,
+    "birth_year": 1999,
     "path": "data/people/p_jose_maria_morales.json"
   },
   {
@@ -71180,7 +71381,7 @@
   {
     "id": "p_jose_ramon_novoa",
     "name": "José Ramón Novoa",
-    "birth_year": 1949,
+    "birth_year": 1950,
     "path": "data/people/p_jose_ramon_novoa.json"
   },
   {
@@ -71459,7 +71660,7 @@
   {
     "id": "p_josef_abrham",
     "name": "Josef Abrhám",
-    "birth_year": 1939,
+    "birth_year": 1977,
     "path": "data/people/p_josef_abrham.json"
   },
   {
@@ -72548,6 +72749,12 @@
     "path": "data/people/p_josep_maria_riera.json"
   },
   {
+    "id": "p_josep_pascual_tirado",
+    "name": "Josep Pascual Tirado",
+    "birth_year": 1883,
+    "path": "data/people/p_josep_pascual_tirado.json"
+  },
+  {
     "id": "p_josep_sanou",
     "name": "Josep Sanou",
     "birth_year": 1961,
@@ -72856,6 +73063,12 @@
     "id": "p_joseph_f_lovett",
     "name": "Joseph F. Lovett",
     "path": "data/people/p_joseph_f_lovett.json"
+  },
+  {
+    "id": "p_joseph_farrugia",
+    "name": "Joseph Farrugia",
+    "birth_year": 1954,
+    "path": "data/people/p_joseph_farrugia.json"
   },
   {
     "id": "p_joseph_fiennes",
@@ -74764,6 +74977,12 @@
     "path": "data/people/p_josh_silver.json"
   },
   {
+    "id": "p_josh_singer",
+    "name": "Josh Singer",
+    "birth_year": 1971,
+    "path": "data/people/p_josh_singer.json"
+  },
+  {
     "id": "p_josh_sitton",
     "name": "Josh Sitton",
     "birth_year": 1986,
@@ -76107,6 +76326,12 @@
     "path": "data/people/p_joxe_mari_agirretxe.json"
   },
   {
+    "id": "p_joxean_munoz",
+    "name": "Joxean Muñoz",
+    "birth_year": 1957,
+    "path": "data/people/p_joxean_munoz.json"
+  },
+  {
     "id": "p_joxean_sagastizabal",
     "name": "Joxean Sagastizabal",
     "birth_year": 1956,
@@ -77302,6 +77527,12 @@
     "path": "data/people/p_juan_antonio_quintana.json"
   },
   {
+    "id": "p_juan_antonio_simarro",
+    "name": "Juan Antonio Simarro",
+    "birth_year": 1973,
+    "path": "data/people/p_juan_antonio_simarro.json"
+  },
+  {
     "id": "p_juan_baldana",
     "name": "Juan Baldana",
     "path": "data/people/p_juan_baldana.json"
@@ -77322,6 +77553,12 @@
     "name": "Juan Barranco Gallardo",
     "birth_year": 1947,
     "path": "data/people/p_juan_barranco_gallardo.json"
+  },
+  {
+    "id": "p_juan_bas",
+    "name": "Juan Bas",
+    "birth_year": 1959,
+    "path": "data/people/p_juan_bas.json"
   },
   {
     "id": "p_juan_bautista_berasategi",
@@ -78083,7 +78320,7 @@
   {
     "id": "p_juan_jose_camero",
     "name": "Juan José Camero",
-    "birth_year": 1942,
+    "birth_year": 1943,
     "path": "data/people/p_juan_jose_camero.json"
   },
   {
@@ -78624,6 +78861,12 @@
     "id": "p_juan_pablo_salazar_salamanca",
     "name": "Juan Pablo Salazar Salamanca",
     "path": "data/people/p_juan_pablo_salazar_salamanca.json"
+  },
+  {
+    "id": "p_juan_pablo_salinas_teruel",
+    "name": "Juan Pablo Salinas Teruel",
+    "birth_year": 1870,
+    "path": "data/people/p_juan_pablo_salinas_teruel.json"
   },
   {
     "id": "p_juan_pablo_shuk",
@@ -80490,7 +80733,7 @@
   {
     "id": "p_jukka_karkkainen",
     "name": "Jukka Kärkkäinen",
-    "birth_year": 1972,
+    "birth_year": 1961,
     "path": "data/people/p_jukka_karkkainen.json"
   },
   {
@@ -81434,6 +81677,12 @@
     "path": "data/people/p_julia_keller.json"
   },
   {
+    "id": "p_julia_kent",
+    "name": "Julia Kent",
+    "birth_year": 1999,
+    "path": "data/people/p_julia_kent.json"
+  },
+  {
     "id": "p_julia_kijowska",
     "name": "Julia Kijowska",
     "birth_year": 1981,
@@ -82206,7 +82455,7 @@
   {
     "id": "p_julian_barnes",
     "name": "Julian Barnes",
-    "birth_year": 1946,
+    "birth_year": 1949,
     "path": "data/people/p_julian_barnes.json"
   },
   {
@@ -83253,7 +83502,7 @@
   {
     "id": "p_julianne_michelle",
     "name": "Julianne Michelle",
-    "birth_year": 1987,
+    "birth_year": 1984,
     "path": "data/people/p_julianne_michelle.json"
   },
   {
@@ -86857,6 +87106,12 @@
     "path": "data/people/p_junichi_komoto.json"
   },
   {
+    "id": "p_junichi_miyashita",
+    "name": "Jun'ichi Miyashita",
+    "birth_year": 1956,
+    "path": "data/people/p_junichi_miyashita.json"
+  },
+  {
     "id": "p_junichi_mori",
     "name": "Jun'ichi Mori",
     "birth_year": 1967,
@@ -89541,6 +89796,7 @@
   {
     "id": "p_jyothi_krishna",
     "name": "Jyothi Krishna",
+    "birth_year": 1992,
     "path": "data/people/p_jyothi_krishna.json"
   },
   {
