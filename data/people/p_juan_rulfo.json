@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_juan_rulfo",
+  "name": "Juan Rulfo",
+  "external_ids": {
+    "wikidata": "Q200661",
+    "imdb": "nm0750031"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1917,
+  "death_year": 1986
+}
