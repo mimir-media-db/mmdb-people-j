@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_james_horner",
+  "name": "James Horner",
+  "external_ids": {
+    "wikidata": "Q106221",
+    "imdb": "nm0000035"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1953,
+  "death_year": 2015
+}
