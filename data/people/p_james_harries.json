@@ -1,10 +1,9 @@
 {
   "schema_version": 1,
-  "id": "p_jason_jones",
-  "name": "Jason Jones",
+  "id": "p_james_harries",
+  "name": "James Harries",
   "external_ids": {
-    "wikidata": "Q1255263",
-    "imdb": "nm0428319"
+    "wikidata": "Q12022357"
   },
   "last_updated": "2026-08-20",
   "birth_year": 1973
