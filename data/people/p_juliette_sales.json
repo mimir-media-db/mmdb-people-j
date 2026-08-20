@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_juliette_sales",
+  "name": "Juliette Sales",
+  "external_ids": {
+    "wikidata": "Q15176484",
+    "imdb": "nm0758118"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1965
+}

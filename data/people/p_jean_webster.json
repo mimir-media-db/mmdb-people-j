@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_jean_webster",
+  "name": "Jean Webster",
+  "external_ids": {
+    "wikidata": "Q238140",
+    "imdb": "nm0916914"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1876,
+  "death_year": 1916
+}

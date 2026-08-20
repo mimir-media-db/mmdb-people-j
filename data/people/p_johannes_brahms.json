@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_johannes_brahms",
+  "name": "Johannes Brahms",
+  "external_ids": {
+    "wikidata": "Q7294",
+    "imdb": "nm0005974"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1833,
+  "death_year": 1897
+}

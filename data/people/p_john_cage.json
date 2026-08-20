@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_john_cage",
+  "name": "John Cage",
+  "external_ids": {
+    "wikidata": "Q180727",
+    "imdb": "nm0128509"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1912,
+  "death_year": 1992
+}

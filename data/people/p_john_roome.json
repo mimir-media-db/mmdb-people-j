@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_roome",
+  "name": "John Roome",
+  "external_ids": {
+    "wikidata": "Q6255576",
+    "imdb": "nm1403352"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1972
+}
