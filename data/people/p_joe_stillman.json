@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_joe_stillman",
+  "name": "Joe Stillman",
+  "external_ids": {
+    "wikidata": "Q4442602",
+    "imdb": "nm0830294"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1969
+}

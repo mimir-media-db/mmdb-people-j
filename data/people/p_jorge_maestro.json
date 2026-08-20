@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_jorge_maestro",
+  "name": "Jorge Maestro",
+  "external_ids": {
+    "wikidata": "Q16301300",
+    "imdb": "nm0535500"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1951,
+  "death_year": 2025
+}
