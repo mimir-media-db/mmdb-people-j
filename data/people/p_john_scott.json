@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_scott",
+  "name": "John Scott",
+  "external_ids": {
+    "wikidata": "Q1276176",
+    "imdb": "nm0779346"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1930
+}

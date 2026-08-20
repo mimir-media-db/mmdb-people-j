@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_john_keel",
+  "name": "John Keel",
+  "external_ids": {
+    "wikidata": "Q776700",
+    "imdb": "nm0444481"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1930,
+  "death_year": 2009
+}

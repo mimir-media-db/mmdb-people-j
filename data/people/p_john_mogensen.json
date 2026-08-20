@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_mogensen",
+  "name": "John Mogensen",
+  "external_ids": {
+    "wikidata": "Q22343560",
+    "imdb": "nm1171461"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1947
+}

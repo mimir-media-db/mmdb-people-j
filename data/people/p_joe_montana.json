@@ -3,8 +3,9 @@
   "id": "p_joe_montana",
   "name": "Joe Montana",
   "external_ids": {
-    "wikidata": "Q6211408"
+    "wikidata": "Q348011",
+    "imdb": "nm0598921"
   },
-  "last_updated": "2026-08-18",
-  "birth_year": 1949
+  "last_updated": "2026-08-20",
+  "birth_year": 1956
 }

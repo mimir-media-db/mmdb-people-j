@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_harle",
+  "name": "John Harle",
+  "external_ids": {
+    "wikidata": "Q509448",
+    "imdb": "nm0363259"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1956
+}
