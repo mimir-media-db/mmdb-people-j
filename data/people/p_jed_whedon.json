@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_jed_whedon",
+  "name": "Jed Whedon",
+  "external_ids": {
+    "wikidata": "Q3176340",
+    "imdb": "nm1871590"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1975
+}
