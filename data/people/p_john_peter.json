@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_john_peter",
+  "name": "John Peter",
+  "external_ids": {
+    "wikidata": "Q25189302",
+    "imdb": "nm12799592"
+  },
+  "last_updated": "2026-08-20"
+}
