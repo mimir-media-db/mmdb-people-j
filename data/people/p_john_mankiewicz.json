@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_john_mankiewicz",
+  "name": "John Mankiewicz",
+  "external_ids": {
+    "wikidata": "Q3181991",
+    "imdb": "nm0542535"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1954
+}
