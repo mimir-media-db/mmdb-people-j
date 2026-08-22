@@ -641,6 +641,12 @@
     "path": "data/people/p_jaafar_guesmi.json"
   },
   {
+    "id": "p_jaafar_jackson",
+    "name": "Jaafar Jackson",
+    "birth_year": 1996,
+    "path": "data/people/p_jaafar_jackson.json"
+  },
+  {
     "id": "p_jaagup_roomet",
     "name": "Jaagup Roomet",
     "birth_year": 1977,
@@ -51977,6 +51983,12 @@
     "path": "data/people/p_joaquin_cosio.json"
   },
   {
+    "id": "p_joaquin_de_orbegoso",
+    "name": "Joaquín de Orbegoso",
+    "birth_year": 1979,
+    "path": "data/people/p_joaquin_de_orbegoso.json"
+  },
+  {
     "id": "p_joaquin_del_paso",
     "name": "Joaquín del Paso",
     "path": "data/people/p_joaquin_del_paso.json"
@@ -52067,7 +52079,7 @@
   {
     "id": "p_joaquin_notario",
     "name": "Joaquín Notario",
-    "birth_year": 1958,
+    "birth_year": 1957,
     "path": "data/people/p_joaquin_notario.json"
   },
   {
@@ -65836,7 +65848,7 @@
   {
     "id": "p_jon_lucas",
     "name": "Jon Lucas",
-    "birth_year": 1995,
+    "birth_year": 1976,
     "path": "data/people/p_jon_lucas.json"
   },
   {
@@ -71933,6 +71945,12 @@
     "id": "p_jorge_ossio_seminario",
     "name": "Jorge Ossio Seminario",
     "path": "data/people/p_jorge_ossio_seminario.json"
+  },
+  {
+    "id": "p_jorge_pablo_quiroz",
+    "name": "Jorge Pablo Quiroz",
+    "birth_year": 1979,
+    "path": "data/people/p_jorge_pablo_quiroz.json"
   },
   {
     "id": "p_jorge_paixao_da_costa",
